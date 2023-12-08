@@ -13,6 +13,7 @@ class FileConverter:
         mime_type, _ = mimetypes.guess_type(input_file)
         output_file = os.path.splitext(input_file)[0] + ".docx"
 
+
         if mime_type == 'text/plain':
             self.txt_to_docx(input_file, output_file)
         elif mime_type == 'application/pdf':
