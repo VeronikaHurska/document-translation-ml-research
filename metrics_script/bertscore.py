@@ -10,7 +10,7 @@ def clean_text(text):
 
 def compute_bleu_per_row(row):
     prediction = clean_text(row['TRANSLATION'])
-    reference = clean_text(row['EN'])
+    reference = clean_text(row['DE'])
     results = chrf.compute(predictions=[prediction],
                          references=[reference],
                          model_type="distilbert-base-uncased"
@@ -18,12 +18,12 @@ def compute_bleu_per_row(row):
     print(results['f1'][0])
     return results['f1'][0]
 
-df = pd.read_csv('translations/helsinki_en_uk_translation.csv')
+df = pd.read_csv('translations/helsinki_nlp/helsinki_en_de_result.csv')
 
 df['bertscore'] = df.apply(compute_bleu_per_row, axis=1)
 
 
 
 mean = df['bertscore'].mean()
-print(mean)
-df.to_csv('bertscore_en_uk_helsinki.csv', index=False)
+print('---',mean)
+df.to_csv('bertscore_en_de_helsinki.csv', index=False)
