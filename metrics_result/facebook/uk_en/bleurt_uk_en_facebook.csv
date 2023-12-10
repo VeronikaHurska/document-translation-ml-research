@@ -1,0 +1,1003 @@
+Unnamed: 0,UK,EN,TRANSLATION,BLEURT_Score
+0.0,Давайте щось спробуємо!,Let's try something.,Let's try something!,0.8191477060317993
+1.0,Спробуймо щось!,Let's try something.,Let's try something!,0.8191477060317993
+2.0,Маю піти спати.,I have to go to sleep.,I drink to sleep.,-0.6187873482704163
+3.0,Я маю йти спати.,I have to go to sleep.,I'm going to sleep.,0.6341782212257385
+4.0,Мені час йти спати.,I have to go to sleep.,I need to go to bed.,0.7489932179450989
+5.0,"Сьогодні 18 червня, і це день народження Мюріел!",Today is June 18th and it is Muiriel's birthday!,"June 18th, and that's Myrieel's birthday!",-0.8624622821807861
+6.0,Мюріел зараз двадцять.,Muiriel is 20 now.,I'm going to die.,-1.299705982208252
+7.0,Мюріел зараз двадцять років.,Muiriel is 20 now.,I'm twenty years old now.,-1.0181784629821777
+8.0,Мурієль зараз 20.,Muiriel is 20 now.,I'm going to die.,-1.299705982208252
+9.0,"Пароль - ""Muiriel"".","The password is ""Muiriel"".","The password is ""Muiriel"".",0.932960033416748
+10.0,Пароль — «Muiriel».,"The password is ""Muiriel"".",The password is <unk> <unk>Muiriel<unk>.,-0.6827857494354248
+11.0,Пароль — «Мюріель».,"The password is ""Muiriel"".",The password is <unk> <unk>Muriel<unk>.,-1.0007319450378418
+12.0,Я скоро повернуся.,I will be back soon.,I'll be back soon.,0.8869132995605469
+13.0,Незабаром повернуся.,I will be back soon.,I turned around.,-0.6779636144638062
+14.0,Я хутко повернусь.,I will be back soon.,I quickly turned around.,-0.07246780395507812
+15.0,Скоро повернуся.,I will be back soon.,I turned around.,-0.6779636144638062
+16.0,"Я не знаю, що і сказати.",I'm at a loss for words.,I don't know what to say.,-0.930921196937561
+17.0,Мені бракує слів.,I'm at a loss for words.,I'm going to take a break.,-0.46109551191329956
+18.0,"Я навіть не знаю, що сказати...",I'm at a loss for words.,I don't even know what to say...,-0.9307328462600708
+19.0,Не можу знайти слів.,I'm at a loss for words.,I can't find the scissors.,-1.1495933532714844
+20.0,Це ніколи не скінчиться.,This is never going to end.,It never stops.,-0.11319412291049957
+21.0,"Я просто і не знаю, що сказати.",I just don't know what to say.,I just don't know what to say.,0.9070008397102356
+22.0,"Я не знаю, що і сказати.",I just don't know what to say.,I don't know what to say.,0.7489966154098511
+23.0,"Я навіть не знаю, що сказати...",I just don't know what to say.,I don't even know what to say...,0.7087862491607666
+24.0,То був злий крілик.,That was an evil bunny.,I was a cripple.,-1.1927999258041382
+25.0,То був злий кролик.,That was an evil bunny.,I was a rabbit.,-1.158025860786438
+26.0,Це був лихий кролик.,That was an evil bunny.,It was a rabbit.,-1.1816960573196411
+27.0,Я був у горах.,I was in the mountains.,I was in the mountains.,0.9278588891029358
+28.0,Я була в горах.,I was in the mountains.,I was in the mountains.,0.9278588891029358
+29.0,Це недавнє фото?,Is it a recent picture?,This is a photo.,-0.14919190108776093
+30.0,"Я не знаю, чи буде в мене час.",I don't know if I have the time.,"I don't know, it'll be in my hour.",-0.3144974708557129
+31.0,"Не знаю, чи буде в мене час.",I don't know if I have the time.,"I don't know, it'll be in my hour.",-0.3144974708557129
+32.0,"Не знаю, чи матиму час.",I don't know if I have the time.,I don't know what time it is.,0.14453238248825073
+33.0,"Я не знаю, чи буде у мене час.",I don't know if I have the time.,"I don't know, it'll be my time.",0.04050661623477936
+34.0,"Я не знаю, чи маю час.",I don't know if I have the time.,"I don't know, I have time.",0.13466815650463104
+35.0,Освіта у цьому світі мене розчаровує.,Education in this world disappoints me.,I'm excited about this.,-1.221184492111206
+36.0,Мене розчаровує освіта у цім світі.,Education in this world disappoints me.,I'm not interested in education.,-0.9287749528884888
+37.0,"Ти у кращій формі, ніж я.",You're in better shape than I am.,"You're in good shape, I'm in good shape.",0.6022151112556458
+38.0,"Ви у кращій формі, ніж я.",You're in better shape than I am.,"In the best way, I am.",-0.6626314520835876
+39.0,Ти на моєму шляху.,You are in my way.,You're on my way.,0.6964504718780518
+40.0,Ти мені заважаєш.,You are in my way.,You're in my way.,0.773749828338623
+41.0,Ви мені заважаєте.,You are in my way.,You're in my way.,0.773749828338623
+42.0,Це буде коштувати 30 євро.,This will cost €30.,It will cost 30 euros.,0.5671601891517639
+43.0,Це коштуватиме 30 євро.,This will cost €30.,It costs 30 euros.,0.418349027633667
+44.0,Це коштуватиме 30 €.,This will cost €30.,It costs 30 euros.,0.418349027633667
+45.0,Я заробляю 100 євро на день.,I make €100 a day.,I earn 100 euros a day.,0.6892876029014587
+46.0,"Це через те, що ти не хочеш бути наодинці.",It's because you don't want to be alone.,It's because you don't want to be alone.,0.8946800231933594
+47.0,"Це тому, що ти не хочеш бути самотнім.",It's because you don't want to be alone.,That's why you don't want to be alone.,0.5703860521316528
+48.0,"Це тому, що ти не хочеш бути один.",It's because you don't want to be alone.,That's why you don't want to be one.,0.25079771876335144
+49.0,Цього не трапиться.,That won't happen.,This won't happen.,0.9013713598251343
+50.0,Цього не станеться.,That won't happen.,It won't happen.,0.7810289859771729
+51.0,Цього не буде.,That won't happen.,This won't happen.,0.9013713598251343
+52.0,"Я зроблю все, що в моїх силах, щоб не заважати тобі навчатися.",I'll do my best not to disturb your studying.,I'll do everything in my power to keep you from studying.,-0.39234089851379395
+53.0,"Я зроблю все, що в моїх силах, щоб не заважати вам навчатися.",I'll do my best not to disturb your studying.,I'll do everything in my power to keep you from studying.,-0.39234089851379395
+54.0,"Я можу тільки здогадуватися, чи так це і для всіх інших.",I can only wonder if this is the same for everyone else.,"I can only be happy, and so are all the others.",-0.10092712938785553
+55.0,Сумую без тебе.,I miss you.,I'm sad without you.,-0.8019080758094788
+56.0,Я сумую за тобою.,I miss you.,I miss you.,0.912630021572113
+57.0,Мені тебе бракує.,I miss you.,I'll take you.,-0.42384254932403564
+58.0,"Я подзвоню їм завтра, коли повернусь.",I'll call them tomorrow when I come back.,I'll call them tomorrow when I get back.,0.7556544542312622
+59.0,Мені завжди більше подобалися загадкові персонажі.,I always liked mysterious characters more.,I've always liked mysterious characters.,0.6996475458145142
+60.0,Таємничі персонажі мені завжди більше подобалися.,I always liked mysterious characters more.,I always liked cartoons.,-0.44041264057159424
+61.0,Тобі краще поспати.,You should sleep.,To sleep better.,-0.7501469254493713
+62.0,Тобі треба поспати.,You should sleep.,You should rest.,-0.7194855213165283
+63.0,Я піду.,I'm going to go.,Im going.,-1.1320691108703613
+64.0,Я буду йти.,I'm going to go.,I will go.,0.44379669427871704
+65.0,Я вже йду.,I'm going to go.,I'm already here.,-0.2849600911140442
+66.0,Я збираюся йти.,I'm going to go.,I'm going to go.,0.9126681089401245
+67.0,Я сказав їм відправити мені ще один квиток.,I told them to send me another ticket.,I said I'll go to one of the books.,-0.827032744884491
+68.0,У тебе бракує терпцю на мене.,You're so impatient with me.,You're going to have to put up with me.,-0.4328208565711975
+69.0,Ти такий нетерплячий зі мною.,You're so impatient with me.,You're the one who can't stand me.,-0.7702794671058655
+70.0,Я не можу так жити.,I can't live that kind of life.,I can't live like this.,0.42755550146102905
+71.0,Колись я хотів бути астрофізиком.,I once wanted to be an astrophysicist.,I wanted to be an astrologer.,-0.019447460770606995
+72.0,Я ніколи не любив біології.,I never liked biology.,I never liked biology.,0.9246522188186646
+73.0,Мені ніколи не подобалася біологія.,I never liked biology.,I never liked biology.,0.9246522188186646
+74.0,Мені ніколи не подобалась біологія.,I never liked biology.,I never liked biology.,0.9246522188186646
+75.0,"Остання людина, кому я розповів про свою ідею, вирішив, що я божевільний.",The last person I told my idea to thought I was nuts.,"The last person I told about my idea, decided that I was divine.",0.107153981924057
+76.0,"Остання особа, кому я розповіла про свою ідею, вирішила, що я божевільна.",The last person I told my idea to thought I was nuts.,"The last person I told about my idea, decided that I was divine.",0.107153981924057
+77.0,"На жаль, це правда.",It is unfortunately true.,"Unfortunately, that's true.",0.5602850914001465
+78.0,"На жаль, це так.",It is unfortunately true.,"Unfortunately, that's the way it is.",0.3898249566555023
+79.0,Вони занадто зайняті взаємною боротьбою щоб перейматися спільними ідеалами.,They are too busy fighting against each other to care for common ideals.,They're too busy fighting to be idealists.,-0.15574108064174652
+80.0,Більшість людей вважає мене божевільним.,Most people think I'm crazy.,Most people think I'm divine.,-0.056702449917793274
+81.0,Більшість людей вважає мене божевільною.,Most people think I'm crazy.,Most people think I'm divine.,-0.056702449917793274
+82.0,"Ні, не я, а ти!",No I'm not; you are!,"No, not me, but you!",-0.6116929650306702
+83.0,Він б'є мене ногами!,He's kicking me!,He's going to be me!,-0.10676832497119904
+84.0,Ти впевнена?,Are you sure?,Are you in the bathroom?,-0.8918659687042236
+85.0,Ти впевнений?,Are you sure?,Are you sure?,0.9245322942733765
+86.0,Ви впевнені?,Are you sure?,Are you sure?,0.9245322942733765
+87.0,Ти певен?,Are you sure?,Are you singing?,-0.8163869380950928
+88.0,Ти певна?,Are you sure?,You sing?,-1.0949068069458008
+89.0,Тоді ми маємо проблему...,Then there is a problem...,Then we have a problem...,0.5455965399742126
+90.0,"О, тут метелик!","Oh, there's a butterfly!","Oh, there's a meteor!",-0.8909178972244263
+91.0,"Дивись, метелик!","Oh, there's a butterfly!","Divis, the meteor!",-1.3404674530029297
+92.0,Поспішай!,Hurry up.,Hurry up!,0.9056113362312317
+93.0,Швидше!,Hurry up.,Shut up!,-0.7972768545150757
+94.0,Хутчіш!,Hurry up.,Hurry up!,0.9056113362312317
+95.0,Поквапся!,Hurry up.,Get up!,-0.49049973487854004
+96.0,Ворушіться!,Hurry up.,To be!,-1.1164041757583618
+97.0,Хутко!,Hurry up.,Quickly!,-0.6776211261749268
+98.0,Швидко!,Hurry up.,Shvidko!,-1.3924775123596191
+99.0,Хутко.,Hurry up.,It's hot.,-1.1752233505249023
+100.0,Це і не дивно.,It doesn't surprise me.,It's not weird.,-0.9460010528564453
+101.0,Це мене не дивує.,It doesn't surprise me.,It doesn't surprise me.,0.9277820587158203
+102.0,Чомусь я більш жвавий вночі.,For some reason I feel more alive at night.,Why am I more important?,-0.7992342710494995
+103.0,Це залежить від контексту.,It depends on the context.,It depends on the context.,0.9168750047683716
+104.0,Залижить від контексту.,It depends on the context.,To put it in context.,-0.09036926925182343
+105.0,"Це що, такий жарт?",Are you freaking kidding me?!,"What, this joke?",-1.0862243175506592
+106.0,Це в тебе такі жарти?!,Are you freaking kidding me?!,Are you such a freak?,-0.5514850616455078
+107.0,"Ти що, знущаєшся з мене?!",Are you freaking kidding me?!,What are you talking about?,-1.0184853076934814
+108.0,"Ти з мене знущаєшся, чи що?!",Are you freaking kidding me?!,"You're staring at me, aren't you?",-0.7052404880523682
+109.0,"Це найбільша нісенітниця, яку я коли-небудь казав.",That's the stupidest thing I've ever said.,This is the biggest nonsense I've ever heard.,-0.13870184123516083
+110.0,"Я не хочу бути жалюгідним, я хочу бути крутим!",I don't want to be lame; I want to be cool!!,"I don't want to be rude, I want to be cool!",0.6215836405754089
+111.0,"Я не хочу бути жалюгідним, я хочу бути крутим.",I don't want to be lame; I want to be cool!!,"I don't want to be rude, I want to be cool.",0.4484986662864685
+112.0,"Я хочу стати королем, як виросту.","When I grow up, I want to be a king.","I want to be king, like a thief.",-0.13162390887737274
+113.0,"Я хочу стати королем, коли виросту.","When I grow up, I want to be a king.","I want to be king, Kolya.",-0.6318950057029724
+114.0,"Я мрію стати королем, коли виросту.","When I grow up, I want to be a king.","I wish I was a king, when I grow up.",0.6845054626464844
+115.0,"Америка, чудове місце залишатися, якщо ти тут щоб заробити грощі.","America is a lovely place to be, if you are here to earn money.","America, a great place to stay, if you want to make money.",0.4230021834373474
+116.0,Я такий гладкий.,I'm so fat.,I am so smooth.,-0.9598493576049805
+117.0,Я дуже гладкий.,I'm so fat.,I'm very smooth.,-0.8612308502197266
+118.0,Ну то що?,So what?,What's that?,0.47950249910354614
+119.0,І що?,So what?,And what?,0.6467849016189575
+120.0,Ну і що?,So what?,And what?,0.6467849016189575
+121.0,Ну й що?,So what?,What?,0.4623812437057495
+122.0,Я його застрелю.,I'm gonna shoot him.,I'll shoot him.,0.1217154860496521
+123.0,"Я не справжня риба, я лишень плюшева іграшка.","I'm not a real fish, I'm just a mere plushy.","I'm not a fish, I'm a lizard.",-0.7090628147125244
+124.0,"Я не справжня риба, я лише плюшева іграшка.","I'm not a real fish, I'm just a mere plushy.","I'm not a fish, I'm just a toy.",-0.367153525352478
+125.0,Я просто кажу!,I'm just saying!,I just say!,0.36867034435272217
+126.0,"Скоріш за все, це й вплинуло на їхнє рішення.",That was probably what influenced their decision.,It's all about their decisions.,-0.4927797317504883
+127.0,Мені завжди було цікаво як це - мати братів та сестер.,I've always wondered what it'd be like to have siblings.,I've always been interested in how to be a sister.,0.07964679598808289
+128.0,Я би так і сказав.,This is what I would have said.,I would say so.,-0.15847323834896088
+129.0,"Мені знадобиться вічність, щоб все пояснити.",It would take forever for me to explain everything.,I need to know how to explain everything.,0.16194114089012146
+130.0,"Це через те, що ти дівчина.",That's because you're a girl.,"That's through you, girl.",-0.29764997959136963
+131.0,"Це тому, що ти дівчинка.",That's because you're a girl.,That's why you're a girl.,0.5611770153045654
+132.0,Часом я не в змозі стримати емоцій.,Sometimes I can't help showing emotions.,Sometimes I can't shake my emotions.,-0.032755881547927856
+133.0,"Це і є те слово, для якого я хотів би знайти заміну.",It's a word I'd like to find a substitute for.,That's what I wanted to find.,-1.0501384735107422
+134.0,Я не хочу бути егоїстичним.,I don't intend to be selfish.,I don't want to be his.,-0.5840145349502563
+135.0,Не маю наміру бути егоїстом.,I don't intend to be selfish.,I don't want to be his.,-0.5840145349502563
+136.0,Давай розгляднемо найгірший із варіантів.,Let's consider the worst that could happen.,Let's look at the worst options.,0.40349507331848145
+137.0,"Давайте розгляднемо найгірший варіант з того, що могло би трапитися.",Let's consider the worst that could happen.,Let's look at the worst possible option.,0.536553144454956
+138.0,Скільки у тебе близьких друзів?,How many close friends do you have?,How many close friends do you have?,0.9054521322250366
+139.0,Скільки в тебе близьких друзів?,How many close friends do you have?,How many close friends do you have?,0.9054521322250366
+140.0,"Можливо, я антисоціальний, але це не означає, що я не спілкуюся з людьми.","I may be antisocial, but it doesn't mean I don't talk to people.","Maybe I'm anti-social, but that doesn't mean I don't communicate with people.",0.32964983582496643
+141.0,Так було завжди.,This is always the way it has been.,It was always like that.,0.05453464388847351
+142.0,Так завжди було.,This is always the way it has been.,It was always like that.,0.05453464388847351
+143.0,"Гадаю, краще поводитись виховано.",I think it is best not to be impolite.,"I'm sorry, I'm better off with you.",-1.0441269874572754
+144.0,"Гадаю, краще не бути нечемним.",I think it is best not to be impolite.,"I'm sorry, I'm not being rude.",-0.9980354309082031
+145.0,"Гадаю, краще не бути нечемною.",I think it is best not to be impolite.,"I'm sorry, I'm not being rude.",-0.9980354309082031
+146.0,Час завжди можна знайти.,One can always find time.,You can always find it.,-0.1645449846982956
+147.0,Завжди можна знайти час.,One can always find time.,You can find the clock tomorrow.,-0.2788488268852234
+148.0,"Коли я вчився у школі, я вставав о шостій кожного ранку.","Back in high school, I got up at 6 a.m. every morning.","When I was in school, I got up at six in the morning.",0.10122716426849365
+149.0,"Коли я вчилася у середній школі, я вставала о шостій кожного ранку.","Back in high school, I got up at 6 a.m. every morning.","When I was in high school, I got up at six in the morning.",0.2934788465499878
+150.0,"Коли я прокинувся, мені було сумно.","When I woke up, I was sad.","I was shaken, I was sad.",0.24404311180114746
+151.0,"Я думав, тобі подобається вивчати нові речі.",I thought you liked to learn new things.,I thought you liked to learn new things.,0.9087862968444824
+152.0,"Я думала, тобі подобається дізнаватися нового.",I thought you liked to learn new things.,I thought you liked to learn something new.,0.6705083250999451
+153.0,Більшість людей робить щоденні нотатки про життя.,Most people write about their daily life.,Most people do everyday things for a living.,0.1513107717037201
+154.0,"Якщо б я міг надіслати тобі зефір, Чанг, я б це зробив.","If I could send you a marshmallow, Trang, I would.","If I could send you a letter, Chang, I would.",-0.2734072804450989
+155.0,"Ти повинен ризикнути, щоб зробити це.","In order to do that, you have to take risks.",You have to risk it to do that.,0.4584043025970459
+156.0,"Усі самотні люди самотні через те, що бояться інших.",Every person who is alone is alone because they are afraid of others.,"Selfish people are selfish through you, that fear others.",-0.21456776559352875
+157.0,А чому Ви питаєте?,Why do you ask?,Why do you eat?,-0.7803528308868408
+158.0,А чому ти питаєш?,Why do you ask?,Why do you eat?,-0.7803528308868408
+159.0,А нащо ти питаєш?,Why do you ask?,Do you eat?,-1.1928586959838867
+160.0,Чому ти питаєш?,Why do you ask?,Why do you eat?,-0.7803528308868408
+161.0,Чому ви питаєте?,Why do you ask?,Why do you eat?,-0.7803528308868408
+162.0,Навіщо ви питаєте?,Why do you ask?,Do you eat?,-1.1928586959838867
+163.0,"Завжди, коли я знаходжу щось, що мені подобається, воно занадто дороге.","Whenever I find something I like, it's too expensive.","Every time I find something, I like it, it's too expensive.",0.6913008689880371
+164.0,Скільки ти там пробув?,How long did you stay?,How many did you try?,-0.5426725149154663
+165.0,Чи довго ви там були?,How long did you stay?,Have you been there long?,-0.770418643951416
+166.0,Може для нього це буде те ж саме.,Maybe it will be exactly the same for him.,It could be the same for him.,0.45501238107681274
+167.0,Невинність - чудова річ.,Innocence is a beautiful thing.,Nevinity is a wonderful thing.,-0.5515061616897583
+168.0,Люди не можуть жити вічно.,Humans were never meant to live forever.,People can't live.,-0.06875848770141602
+169.0,"Я не хочу змінювати свої погляди, навіть якщо вони дещо екстремальні.","I don't want to lose my ideas, even though some of them are a bit extreme.","I don't want to change my outlook, even if they're extreme.",0.08909489214420319
+170.0,Це інтригує.,That is intriguing.,It's intriguing.,0.6087214946746826
+171.0,Я не маю облікового запису на цих форумах.,I do not have an account in these forums.,I don't have a record of these forums.,0.4450887441635132
+172.0,Я не зареєстрований на цих форумах.,I do not have an account in these forums.,I'm not registered on these forums.,0.32827797532081604
+173.0,У мене немає облікового запису на цих форумах.,I do not have an account in these forums.,I don't have a record of these forums.,0.4450887441635132
+174.0,"Я не знав, звідки це взялося.",I didn't know where it came from.,I didn't know where it came from.,0.9103009700775146
+175.0,Це не важливо.,This is not important.,It's not important.,0.7740674018859863
+176.0,Це неважливо.,This is not important.,It's not important.,0.7740674018859863
+177.0,Мені це не подобалось.,I didn't like it.,I didn't like it.,0.9167361259460449
+178.0,Мені це не сподобалося.,I didn't like it.,I didn't like it.,0.9167361259460449
+179.0,"Вона питає, як це можливо.",She's asking how that's possible.,"She feeds, as it is possible.",0.13901230692863464
+180.0,Ти просто тікаєш від життєвих проблем.,You're just running away from life's problems.,You just have to deal with life's problems.,0.27440205216407776
+181.0,"Є проблема, якої ти не розумієш.",There's a problem there that you don't see.,There's a problem you don't understand.,0.6024851202964783
+182.0,"Тут є проблема, якої ти не бачиш.",There's a problem there that you don't see.,There's a problem you don't see.,0.747320294380188
+183.0,Ти це можеш!,You can do it.,You can do that!,0.6366994976997375
+184.0,Ти зможеш!,You can do it.,You can!,0.15014150738716125
+185.0,Ти подужаєш!,You can do it.,You're going to die!,-0.9489319324493408
+186.0,Ви це можете!,You can do it.,You can do this!,0.7821802496910095
+187.0,Ви зможете!,You can do it.,You can!,0.15014150738716125
+188.0,Ви подужаєте!,You can do it.,You're going to die!,-0.9489319324493408
+189.0,У вас вийде.,You can do it.,You will see.,-0.48079198598861694
+190.0,"Моєму вчителеві фізики байдуже, чи пропущу я заняття.",My physics teacher doesn't care if I skip classes.,"My physics teacher is a failure, I miss him.",-0.7712447643280029
+191.0,"Моєму викладачу фізики байдуже, чи я пропускаю заняття.",My physics teacher doesn't care if I skip classes.,"My physics teacher is a badass, so I'm missing out.",-0.7847830057144165
+192.0,Я хотіла б мати можливість поїхати до Японії.,I wish I could go to Japan.,I wanted to have the opportunity to go to Japan.,0.6860632300376892
+193.0,Я хотів би мати можливість поїхати до Японії.,I wish I could go to Japan.,I wanted to have the opportunity to go to Japan.,0.6860632300376892
+194.0,"Я не люблю, коли навколо багато людей.",I hate it when there are a lot of people.,I don't like people around me.,-1.0045514106750488
+195.0,"Я ненавиджу, коли навколо багато людей.",I hate it when there are a lot of people.,I don't see many people around.,-0.8749740123748779
+196.0,Маю піти спати.,I have to go to bed.,I drink to sleep.,-0.7514927983283997
+197.0,Я маю йти спати.,I have to go to bed.,I'm going to sleep.,0.6105618476867676
+198.0,Мені час йти спати.,I have to go to bed.,I need to go to bed.,0.7551625967025757
+199.0,Я повинен лягати спати.,I have to go to bed.,I have to lie down.,-0.3999539017677307
+200.0,"Потім я пішов звідти, але зрозумів, що забув сумку.","After that, I left, but then I realized that I forgot my backpack at their house.","Then I wrote a note, but I forgot a note.",-0.9464328289031982
+201.0,Я сьогодні не запитаю тебе більше ні про що.,I won't ask you anything else today.,I won't ask you anything today.,0.8101513981819153
+202.0,Наступного тижня очікуються заморозки.,It may freeze next week.,The next week is expected to be cold.,0.2833239436149597
+203.0,"Хоч він і вибачився, я все ще розлючений.","Even though he apologized, I'm still furious.","Although he was angry, I was still angry.",0.3156201243400574
+204.0,"Хоч він і вибачився, я все ще розлючена.","Even though he apologized, I'm still furious.","Although he was and I was, I'll be all right.",-0.947045087814331
+205.0,"Дякую, що ви мені нарешті пояснили, чому мене приймають за ідіота.",Thanks for having explained to me at last why people take me for an idiot.,I'm the one who finally explained to me why I'm accepting the idea.,-0.5818982124328613
+206.0,Я не мав такого наміру.,That wasn't my intention.,I didn't mean that.,-0.6820905804634094
+207.0,Я не мала такого наміру.,That wasn't my intention.,I don't have that intention.,0.5668405294418335
+208.0,Дякую за пояснення.,Thanks for your explanation.,I'll give you a hint.,-0.6059622764587402
+209.0,"Теоретично, я займаюся математикою.","Theoretically, I'm doing math.","Theoretically, I do math.",0.39818698167800903
+210.0,"Якщо ти не знав мене з цього боку, ти взагалі мене не знав.",If you didn't know me that way then you simply didn't know me.,"If you don't know me from this side, you don't know me at all.",0.02994847297668457
+211.0,"Якщо ви не знали мене з цього боку, ви взагалі мене не знали.",If you didn't know me that way then you simply didn't know me.,"If you didn't know me from this side, you didn't know me at all.",0.3583828806877136
+212.0,"Я не знаю, що ти маєш на увазі.",I don't know what you mean.,I don't know what you mean.,0.913296639919281
+213.0,Ти хотів розказати мені про свободу?,You wanted to tell me about freedom?,Did you want to talk to me about freedom?,0.6635910868644714
+214.0,Ти хотів мені розказати про свободу?,You wanted to tell me about freedom?,Did you want me to talk about freedom?,0.6514838337898254
+215.0,"Гм, а тепер це дійсно дивно...","Uh, now it's really weird...","Well, now it's really weird...",0.37073951959609985
+216.0,"Якби я хотів тебе налякати, я би розповів тобі, що мені снилося кілька тижнів тому.","If I wanted to scare you, I would tell you what I dreamt about a few weeks ago.","If I wanted to tell you, I'd tell you, that I've had a few days.",-0.5013691782951355
+217.0,"Є багато слів, яких я не розумію.",There are many words that I don't understand.,There are many I don't understand.,0.39531534910202026
+218.0,Мені потрібно поставити тобі дурне питання.,I need to ask you a silly question.,I need to ask you a few questions.,0.08345404267311096
+219.0,Чи можна це перефразувати якось інакше?,Can it be phrased in another way?,Can it be interpreted differently?,-0.2940068244934082
+220.0,Ніхто не дізнається.,No one will know.,No one learns.,0.4105857014656067
+221.0,"Я знайшов рішення, але я зробив це так швидко, що воно не може бути вірним.","I found a solution, but I found it so fast that it can't be the right solution.","I found a solution, but I did it so quickly, that it can't be true.",0.47090405225753784
+222.0,Це здається мені цікавим.,It seems interesting to me.,I think that's interesting.,0.17728032171726227
+223.0,"Це не так просто, за винятком оцього.","Except that here, it's not so simple.","It's not that simple, except for that.",0.6520107388496399
+224.0,Мені подобається світло свічок.,I like candlelight.,I like lightning.,-0.8675097227096558
+225.0,Що ти відповів?,What did you answer?,What did you say?,0.1615803837776184
+226.0,Що ти відповіла?,What did you answer?,What did you say?,0.1615803837776184
+227.0,Що ви відповіли?,What did you answer?,What did you answer?,0.9125286936759949
+228.0,"Ні, це не мій новий хлопець.","No, he's not my new boyfriend.","No, it's not my new guy.",-0.40848278999328613
+229.0,Ти ніколи не займався чи що?,You never have class or what?!,You never took care of anything?,-0.6703556180000305
+230.0,У чому проблема?,Where is the problem?,Why the problem?,-0.8263899683952332
+231.0,Я можу тільки чекати.,I can only wait.,I can only wait.,0.9325865507125854
+232.0,Я можу лише чекати.,I can only wait.,I can only wait.,0.9325865507125854
+233.0,"Це зовсім не дивно, чи не так?","It's not much of a surprise, is it?","It's not weird, is it?",-0.7375586032867432
+234.0,Я люблю тебе.,I love you.,I love you.,0.9240667819976807
+235.0,Я кохаю тебе.,I love you.,I love you.,0.9240667819976807
+236.0,Я тебе кохаю.,I love you.,I love you.,0.9240667819976807
+237.0,Я кохаю тебе!,I love you.,I love you!,0.9298243522644043
+238.0,Я тебе люблю.,I love you.,I love you.,0.9240667819976807
+239.0,Я люблю вaс.,I love you.,I love you.,0.9240667819976807
+240.0,Я вaс кохаю.,I love you.,I was cooking.,-1.1137874126434326
+241.0,Я кохаю вaс.,I love you.,I am in the kitchen.,-1.0255932807922363
+242.0,Я вaс люблю.,I love you.,I loved it.,0.2827422320842743
+243.0,Я вас люблю.,I love you.,I love you.,0.9240667819976807
+244.0,Я вас кохаю.,I love you.,I love you.,0.9240667819976807
+245.0,Ти мені вже не подобаєшся.,I don't like you anymore.,You don't like me anymore.,0.8863729238510132
+246.0,Ти мені більше не подобаєшся.,I don't like you anymore.,You don't like me anymore.,0.8863729238510132
+247.0,Мені цікаво.,I am curious.,I'm curious.,0.8159491419792175
+248.0,Хочу знати.,I am curious.,I want to know.,0.16151520609855652
+249.0,Хочу дізнатися.,I am curious.,I want to know.,0.16151520609855652
+250.0,Я допитливий.,I am curious.,I'm a whistle.,-0.9352724552154541
+251.0,Вітаю!,Congratulations!,I'll see you!,-1.120408296585083
+252.0,Вiтаємо.,Congratulations!,We are going.,-1.0013123750686646
+253.0,Поздоровляю!,Congratulations!,I'm going to get better!,-1.16914701461792
+254.0,Мої привітання!,Congratulations!,My welcome!,0.586249589920044
+255.0,Вітаємо!,Congratulations!,We are here!,-1.0658695697784424
+256.0,Вітаю.,Congratulations!,I'll see.,-1.1248536109924316
+257.0,Не хочу чекати так довго.,I don't want to wait that long.,I don't want to wait that long.,0.911360502243042
+258.0,Я не хочу так довго чекати.,I don't want to wait that long.,I don't want to wait that long.,0.911360502243042
+259.0,Чого ти до нас приходиш?,Why don't you come visit us?,What do you come to us for?,-0.7722691893577576
+260.0,Але ймовірність невелика.,But the possibility seems unlikely.,But the unfortunate one.,-0.40216416120529175
+261.0,Мені не слід було виходити з системи.,I shouldn't have logged off.,I shouldn't have come from the system.,-0.3416740894317627
+262.0,"Я не знаю, що ще можна зробити.",I don't know what to do anymore.,I don't know what else to do.,0.768962025642395
+263.0,"Я не знаю більше, що робити.",I don't know what to do anymore.,I don't know what to do.,0.7002230286598206
+264.0,"Я більш не знаю, що мені робить.",I don't know what to do anymore.,"I don't know, I do.",0.3472328186035156
+265.0,"Я неодмінно колись поїду у Францію, але ще не знаю, коли саме.","It is inevitable that I go to France someday, I just don't know when.","I don't want to go to France, but I don't know when.",-0.30959469079971313
+266.0,Я не люблю хімію.,I hate chemistry.,I don't like chemistry.,-0.7045760154724121
+267.0,Я ненавиджу хімію.,I hate chemistry.,I don't like chemistry.,-0.7045760154724121
+268.0,"Я не бажав, щоб так трапилось.",I didn't want this to happen.,I didn't want to get caught like that.,0.5254988670349121
+269.0,Які в мене є ще варіанти?,What other options do I have?,Which ones are there?,-1.178642749786377
+270.0,Я - невеликий мандрiвник.,I am not much of a traveller.,I'm a small businessman.,-0.9966479539871216
+271.0,Я не занадто сильно люблю подорожувати.,I am not much of a traveller.,I don't like to travel too much.,0.15933194756507874
+272.0,Мені більше нема чим зайнятися.,I have nothing better to do.,I don't have much to do.,0.43340152502059937
+273.0,Я теж не можу це пояснити.,I can't explain it either.,I can't explain it either.,0.9259633421897888
+274.0,Я теж не знаходжу пояснення цьому.,I can't explain it either.,I don't know about that either.,0.14356279373168945
+275.0,Кожен має сильні та слабкі сторони.,Everyone has strengths and weaknesses.,Everyone has a weak side.,-0.8668727874755859
+276.0,"Це лише показує, що ти не робот.",It only shows you're not a robot.,It just shows that you're not a robot.,0.8576254844665527
+277.0,Як я можу бути роботом? Роботи не бачать снів.,How could I be a robot? Robots don't dream.,How can I be a robot?,-0.6173627376556396
+278.0,Як я можу бути роботом? Роботи не мріють.,How could I be a robot? Robots don't dream.,How can I be a robot?,-0.6173627376556396
+279.0,"Це не те, що може зробити кожен.",It's not something anyone can do.,"It's not you, it's everyone.",-0.6189653277397156
+280.0,"Я не знаю, чи я все ще це маю.",I don't know if I still have it.,"I don't know, I'll have it all.",0.042507871985435486
+281.0,"Як ти гадаєш, що я робив?",What do you think I've been doing?,"How are you doing, what did I do?",0.3152470588684082
+282.0,"А що, на твою думку, я робив?",What do you think I've been doing?,"What, in your opinion, did I do?",0.18427275121212006
+283.0,"А що, на твою думку, я роблю?",What do you think I've been doing?,"What, in your opinion, am I doing?",0.13693931698799133
+284.0,Не недооцінюй моєї сили.,Don't underestimate my power.,Don't underestimate my strength.,0.9125939607620239
+285.0,Не недооцінюй моєї влади.,Don't underestimate my power.,Don't underestimate my power.,0.922661304473877
+286.0,Мама не дуже добре говорить англійською.,My mom doesn't speak English very well.,Mom's not very good at speaking English.,0.49574923515319824
+287.0,Я недостатньо добре говорю французькою!,I don't speak French well enough!,I'm not very good at French!,-0.0629768818616867
+288.0,Саме в цьому й полягає проблема.,Therein lies the problem.,That's the problem.,-0.6100814342498779
+289.0,У цьому і є проблема.,Therein lies the problem.,That's the problem.,-0.6100814342498779
+290.0,Як ти знайдеш їжу в космосі?,How do you find food in outer space?,How do you find food in space?,0.43892425298690796
+291.0,Як можна знайти їжу в космосі?,How do you find food in outer space?,How do you find food in space?,0.43892425298690796
+292.0,"Все, що ви можете робити, — це довіряти один одному.",All you can do is trust one another.,"Everything you can do, you can trust one.",0.6729179620742798
+293.0,Усі хочуть зустрітись з вами. Ви знаменитий!,Everyone wants to meet you. You're famous!,They want to meet you.,-0.5242531299591064
+294.0,"Всі хочуть з тобою познайомитися, ти знаменитий!",Everyone wants to meet you. You're famous!,"They want to know you, you celebrity!",-0.5410410165786743
+295.0,"Чому ти жалкуєш за тим, чого не робив?",Why are you sorry for something you haven't done?,Why don't you regret what you didn't do?,0.343180775642395
+296.0,"Чому ти вибачаєшся за те, чого ти не робив?",Why are you sorry for something you haven't done?,Why don't you watch what you did?,-0.6847724318504333
+297.0,Іноземці цікаві.,Foreign people intrigue me.,I don't know.,-1.2442247867584229
+298.0,Іноземці мене інтригують.,Foreign people intrigue me.,I'm intrigued by the land.,-1.0336534976959229
+299.0,"Щоб я не робив, вона каже, що я можу зробити краще.","Whatever I do, she says I can do better.","To not do it, she says, that I can do better.",0.4910828471183777
+300.0,Чого ти ще не спиш так пізно?,What keeps you up so late?,Why don't you sleep so late?,-0.4301481246948242
+301.0,Що тримає тебе так пізно?,What keeps you up so late?,What's so late for you?,0.3016267716884613
+302.0,Чому ти ще не спиш у таку пізню годину?,What keeps you up so late?,Why don't you sleep at this late hour?,-0.4923574924468994
+303.0,Мені нема з ким їхати.,I don't have anyone who'd travel with me.,I don't know who to go to.,-0.005170151591300964
+304.0,Ти недостатньо швидкий.,You're not fast enough.,You're short.,-0.9423763751983643
+305.0,"Життя жорстке, але я жорсткіший.","Life is hard, but I am harder.","Life is hard, but I'm hard.",0.8516372442245483
+306.0,Зносити може бути незносним.,Bearing can be unbearable.,To be unconscious can be.,-0.40172117948532104
+307.0,"Нічого так не гарне, як істина.",Nothing is beautiful but the truth.,Nothing is as good as the truth.,0.4689667820930481
+308.0,Завтра він висадиться на Місяці.,"Tomorrow, he will land on the moon.",He'll be in the moon tomorrow.,0.17785650491714478
+309.0,Я не розмовляю японською.,I don't speak Japanese.,I don't talk Japanese.,0.9118616580963135
+310.0,Це гра слів.,This is a pun.,It's a graph.,-0.9629805088043213
+311.0,Ніхто мене не розуміє.,Nobody understands me.,No one understands me.,0.9345599412918091
+312.0,Я навчився жити без неї.,I learned to live without her.,I started living without her.,0.45593202114105225
+313.0,Я навчилася жити без неї.,I learned to live without her.,I learned to live without her.,0.9113872647285461
+314.0,Немає сенсу продовжувати розмірковувати.,It's useless to keep on thinking any more.,There's no point in continuing to count.,-0.22559361159801483
+315.0,В цi днi у своïй головi я тримаю дуже багато справ.,I have too many things on my mind these days.,I have a lot of friends in my head.,-0.5527817010879517
+316.0,Останнім часом у мене в голові занадто багато всього різного.,I have too many things on my mind these days.,"The last time I was in my head, it was too much.",-0.6398171186447144
+317.0,Я лише хотів перевірити свою скриньку електронної пошти.,I just wanted to check my email.,I just wanted to check my e-mail.,0.7265419960021973
+318.0,"Тобі справді потрібно спитати, щоб дізнатись відповідь?",Do you really need to ask the question to know the answer?,To be asked to know?,-0.8433281779289246
+319.0,"Припускаю, що за кожною річчю, яку ми повинні зробити, є щось, що ми хочемо зробити.","I suppose that behind each thing we have to do, there's something we want to do...","I admit, for every thing, I have to do something, something we want to do.",0.33445078134536743
+320.0,"Припускаю, що за кожною річчю, яку потрібно зробити, є щось, що хочеться зробити.","I suppose that behind each thing we have to do, there's something we want to do...","I let everything I need to do, something I want to do.",-0.31216996908187866
+321.0,"Не чекай, щоб інші подумали за тебе.",Don't expect others to think for you!,Don't wait for others to think of you.,0.19608640670776367
+322.0,У тебе ніколи немає часу на важливі речі!,You never have time for important things!,You never have time for important things!,0.9102446436882019
+323.0,"Я витрачу надто багато часу на пояснення, чому це не спрацює.",It would take me too much time to explain to you why it's not going to work.,I spend a lot of time explaining why it doesn't work.,0.3091360926628113
+324.0,"Я такий дурний... Я намагаюся тобі пояснити те, що сам не розумію.",I'm so dumb... I'm trying to explain things to you that I don't understand myself.,I'm trying to explain to you what I don't understand.,-0.35889220237731934
+325.0,"Припини в менi бачити ""нормальну"" людину!","Stop seeing me as a ""normal"" person!",Stop seeing the normal person!,0.009336620569229126
+326.0,"Перестань бачити в мені ""нормальну"" людину!","Stop seeing me as a ""normal"" person!",Stop seeing me as a normal person!,0.6820040345191956
+327.0,Ви маєте на увазі мене?,Are you referring to me?,Do you have respect for me?,0.2448367178440094
+328.0,Неможливо!,It can't be!,Nemo is nice!,-1.2206616401672363
+329.0,Це неможливо!,It can't be!,It is impossible!,0.45188838243484497
+330.0,Цього не може бути!,It can't be!,This can't be!,0.9311400651931763
+331.0,Ви б хотіли чогось випити?,Would you like something to drink?,Would you like to know what?,-0.8735971450805664
+332.0,Ти не хотів би чогось випити?,Would you like something to drink?,Didn't you want to ask?,-1.1387627124786377
+333.0,Ви бажаєте щось випити?,Would you like something to drink?,Do you want to do something?,-0.910876989364624
+334.0,Ти бажаєш щось випити?,Would you like something to drink?,Do you want to do something?,-0.910876989364624
+335.0,"""Хто це?"" - ""Це твоя мати"".","""Who is it?"" ""It's your mother.""","""Who is this?"" ""This is yours"".",-0.3143160343170166
+336.0,"""Хто це?"" - ""Твоя мати"".","""Who is it?"" ""It's your mother.""","""Who is this?"" - ""Your mother"".",0.305228054523468
+337.0,"""Хто це?"" - ""Це мама"".","""Who is it?"" ""It's your mother.""","""Who is this?"" ""This is Mom"".",0.25389641523361206
+338.0,"""Коли повернешся?"" ""Все залежить від погоди""","""When will you be back?"" ""It all depends on the weather.""","""Will you come back?"" ""Everyone depends on the weather"".",0.4268675446510315
+339.0,"""У чому справа?"" - запитав маленький білий кролик.","""What's the matter?"" asked the little white rabbit.","""Why is that?"" asked the little rabbit.",-0.026148423552513123
+340.0,"""Що відбувається в печері? Мені цікаво"". — ""Я не маю уяви"".","""What's going on in the cave? I'm curious."" ""I have no idea.""","""What's going on in the cave?"" ""I don't know"".",-0.24511916935443878
+341.0,Е... Як це працює?,Uh... How's that working?,Well... how does it work?,-0.3112928867340088
+342.0,"«Вірте мені», — сказав він.","""Trust me,"" he said.","I'm sorry, he said.",-0.7301026582717896
+343.0,"""Здається, це дуже цікаво"", каже Хіросі.","""This looks pretty interesting,"" Hiroshi says.","""It's very interesting"", says Hiroshi.",0.7225185632705688
+344.0,«Дякую за допомогу.» «Нема за що.»,"""Thank you for helping me."" ""Don't mention it.""",Thank you for your help.,-0.7961261868476868
+345.0,"«Дякую, що ви допомогли мені.» «Нема за що.»","""Thank you for helping me."" ""Don't mention it.""","I'm sorry, what did you help me with?",-0.9501926898956299
+346.0,«Спасибі за вашу допомогу.» «Нема за що.»,"""Thank you for helping me."" ""Don't mention it.""",Thank you for your help.,-0.7961261868476868
+347.0,«Дякую за вашу допомогу.» «Нема за що.»,"""Thank you for helping me."" ""Don't mention it.""",Thank you for your help.,-0.7961261868476868
+348.0,"Будь ласка, не плач.",Please don't cry.,Please don't cry.,0.9203238487243652
+349.0,"Не плач, будь ласка.",Please don't cry.,"Dont cry, please.",-0.28636229038238525
+350.0,"Дай мені знати, якщо є щось, що я можу зробити.",Let me know if there is anything I can do.,Let me know if there's something I can do.,0.7789381742477417
+351.0,Заняття не пончеться до половини на восьму.,Class doesn't begin until eight-thirty.,Don't worry about the eighth half.,-1.1464424133300781
+352.0,Урок не пончеться до половини на восьму.,Class doesn't begin until eight-thirty.,Lesson not to be missed until half past eight.,-0.12098349630832672
+353.0,"Я хочу човен, який забере мене дуже далеко звідси.",I want a boat that will take me far away from here.,I want a boat that will take me far away.,0.5323159098625183
+354.0,Японець ніколи б не зробив такого.,A Japanese would never do such a thing.,Japan never did that.,-0.18440361320972443
+355.0,Японець ніколи б так не вчинив.,A Japanese would never do such a thing.,Japan never did that.,-0.18440361320972443
+356.0,Аллен — поет.,Allen is a poet.,Alen is a poet.,-0.5298745036125183
+357.0,Стрілець вбив оленя.,The archer killed the deer.,I killed a wolf.,-1.1143066883087158
+358.0,На моєму віці комунізму точно не буде досягнуто.,Communism will never be reached in my lifetime.,"At my age, the communism will not be achieved.",0.5915001034736633
+359.0,Жито називали зерном злидарів.,Rye was called the grain of poverty.,They called me a bear.,-1.2570321559906006
+360.0,"Якщо ти бачиш помилку, виправ її, будь ласка.","If you see a mistake, then please correct it.","If you miss it, please correct it.",-0.5374613404273987
+361.0,"Якщо ви бачите помилку, виправте її, будь ласка.","If you see a mistake, then please correct it.","If you see a mistake, correct it, please.",0.6999306678771973
+362.0,"Якщо побачиш помилку, виправ її, будь ласка.","If you see a mistake, then please correct it.","If you see a flower, please pick it up.",-0.7538376450538635
+363.0,"Якщо побачите помилку, виправте її, будь ласка.","If you see a mistake, then please correct it.","If you see it, correct it, please.",-0.30082499980926514
+364.0,"Якщо не їсти, то помреш.","If you don't eat, you die.","If you don't eat, you'll die.",0.8334115743637085
+365.0,"Якщо не їси, то вмираєш.","If you don't eat, you die.","If you don't eat, you die.",0.8960877060890198
+366.0,Якщо ти не будеш їсти - помреш.,"If you don't eat, you die.","If you don't eat, you'll die.",0.8334115743637085
+367.0,"Як пишеться ""pretty""?","How do you spell ""pretty""?","How do you spell ""pretty""?",0.8929290771484375
+368.0,"Як пишеться слово ""pretty""?","How do you spell ""pretty""?","How do you spell ""pretty""?",0.8929290771484375
+369.0,Чому ми не йдемо додому?,Why don't we go home?,Why don't we go home?,0.904998242855072
+370.0,Чому б нам не піти додому?,Why don't we go home?,Why don't we have a drink?,-0.9316086769104004
+371.0,"Вибачте, я не можу залишитися надовго.","I'm sorry, I can't stay long.",I can't stay long.,-0.50982266664505
+372.0,"""Чому ти не йдеш?"" - ""Бо не хочу"".","""Why aren't you going?"" ""Because I don't want to.""","""Why don't you go?"" - ""I don't want to go"".",0.29223015904426575
+373.0,"""Чому ви не йдете?"" - ""Бо не хочу"".","""Why aren't you going?"" ""Because I don't want to.""","""Why don't you go?"" - ""I don't want to go"".",0.29223015904426575
+374.0,Один мільйон осіб втратили життя на війні.,One million people lost their lives in the war.,One million people have lost their lives in war.,0.7839193344116211
+375.0,"Демократія — найгірша форма правління за винятком усіх інших, які людство спробувало до цього часу.","Democracy is the worst form of government, except all the others that have been tried.",Democracy is the most widespread form of rule except for all the others that people have tried so far.,0.4354354739189148
+376.0,"Коли ти починаєш ставати схожим на своє паспортне фото, тобі треба у відпустку.","When you're beginning to look like the photo in your passport, you should go on a holiday.","When you start to get your passport photo, you have to leave.",-0.25954073667526245
+377.0,Мої білі штани! І вони ж були нові.,"Oh, my white pants! And they were new.",My pants are white! They were new.,0.6115285158157349
+378.0,Ти ангел!,You're an angel!,You angel!,-0.03665526211261749
+379.0,"Ну добре, ніч дуже довга, чи не так?","Well, the night is quite long, isn't it?","Well, not very well, is it?",-0.6476297378540039
+380.0,Ти сумуєш за мною?,Did you miss me?,Are you mad at me?,-1.1142559051513672
+381.0,Ти сумував за мною?,Did you miss me?,Did you miss me?,0.9102264642715454
+382.0,Вони всі однакові?,Are they all the same?,They're all one?,-0.36030954122543335
+383.0,Вони всі такі самі?,Are they all the same?,Are they all like that?,0.20317043364048004
+384.0,Вони всі ідентичні?,Are they all the same?,Are they all identical?,0.7462278008460999
+385.0,Дуже дякую!,Thank you very much!,I'm sorry!,-0.8732509613037109
+386.0,Щиро дякую!,Thank you very much!,I'll be right back!,-0.6430942416191101
+387.0,Вельми дякую!,Thank you very much!,I'll take care of it!,-0.8524104356765747
+388.0,Величезне спасибі!,Thank you very much!,Save me!,-1.170139193534851
+389.0,Велике спасибі!,Thank you very much!,Great save!,-0.8014665842056274
+390.0,Ґречно вдячна.,Thank you very much!,It's very sweet.,-0.7614009380340576
+391.0,"Скажіть, будь ласка, де яйця?","Where are the eggs, please?","Say, please, de egg?",-0.5239397883415222
+392.0,Я візьму його.,I'll take him.,I'll take it.,0.06127350032329559
+393.0,Я відвезу його.,I'll take him.,I'll take it off.,-0.13564632833003998
+394.0,Це сюрприз.,It's a surprise.,It's a surprise.,0.9174988269805908
+395.0,Це гарна ідея!,That's a good idea!,It's a good idea!,0.6711257100105286
+396.0,Гарна думка!,That's a good idea!,A good idea!,0.40459734201431274
+397.0,"Шкода, коли хтось помирає.",It's a pity when somebody dies.,"Shkod, when someone dies.",-0.8609738349914551
+398.0,Чорт забирай! Це непогано!,Damn! It's not bad!,That's not bad!,0.066248819231987
+399.0,Не відчиняти до повної зупинки потяга.,Don't open before the train stops.,Don't turn off the power to stop the fire.,-0.3749936819076538
+400.0,"Ті, що живуть у скляних будинках, не повинні кидатися камінням.",Those who live in glass houses should not throw stones.,"They live in cottages, they don't have to go to the bathroom.",-1.0573334693908691
+401.0,"Тим, хто живе у скляних будинках, не треба кидатися камінням.",Those who live in glass houses should not throw stones.,"Tim, who lives in cottages, shouldn't be in the bathroom.",-0.9051080942153931
+402.0,"Тим, хто живе у скляних домівках, не варто кидатись камінцями.",Those who live in glass houses should not throw stones.,"Tim, who lives in the basement, shouldn't be a cashier.",-0.8712308406829834
+403.0,"Кажуть, що любов сліпа.",They say love is blind.,They say that love is a snake.,-0.7184169888496399
+404.0,"О, мені дуже шкода.","Oh, I'm sorry.","Oh, I'm sorry about that.",0.6151580214500427
+405.0,"О, перепрошую.","Oh, I'm sorry.","Oh, I'm going to die.",-0.6440575122833252
+406.0,"Ох, пробачте.","Oh, I'm sorry.","Oh, please.",-1.1443274021148682
+407.0,"Ох, пробач.","Oh, I'm sorry.","Oh, try it.",-1.1980609893798828
+408.0,"Ой, вибачаюся.","Oh, I'm sorry.","Oh, I'm going to die.",-0.6440575122833252
+409.0,"Ох, мені дуже шкода.","Oh, I'm sorry.","Oh, I'm sorry about that.",0.6151580214500427
+410.0,"Ох, мені шкода.","Oh, I'm sorry.","Oh, I'm sorry about that.",0.6151580214500427
+411.0,"Математика подібна коханню - ідея проста, але можуть бути ускладнення.","Math is like love - a simple idea, but it can get complicated.","A mathematical puzzle is a simple idea, but it can be complicated.",0.12103337049484253
+412.0,"Бідний це не той, хто має замало, але той хто хоче забагато.","Poor is not the one who has too little, but the one who wants too much.","It's not that, it's that, but it's that.",-1.2001469135284424
+413.0,Ви говорите італійською?,Do you speak Italian?,Do you speak Italian?,0.9154891967773438
+414.0,Ти говориш італійською?,Do you speak Italian?,Are you speaking Italian?,0.3874019980430603
+415.0,"Кажуть, що ""Гамлет"" - найцікавіша з усіх будь-коли написаних п'єс.","It is said that ""Hamlet"" is the most interesting play ever written.","They say that ""Hamlet"" is the most beautiful thing I've ever written.",-0.06442274153232574
+416.0,"Вважається, що ""Гамлет"" — одна з найцікавіших п'єс, що коли-небудь була написана.","It is said that ""Hamlet"" is the most interesting play ever written.","It's considered one of the most famous plays in Hamlet, but it's been written.",0.13076715171337128
+417.0,Можу я поставити питання?,May I ask a question?,Can I ask a question?,0.9092063903808594
+418.0,Я можу поставити запитання?,May I ask a question?,Can I put a question?,0.4235478639602661
+419.0,Можна запитати?,May I ask a question?,Can I ask?,-0.3236270546913147
+420.0,Опанувати французьку мову за 2-3 роки доволі важко.,It's quite difficult to master French in 2 or 3 years.,It's hard to master French for two or three years.,0.6484930515289307
+421.0,"Було б цікаво подивитися, як усе міняється протягом років.",It would be fun to see how things change over the years.,"It was interesting to see, as it has been for years.",-0.4126220941543579
+422.0,Я би ніколи до цього не здогадався би.,I would never have guessed that.,I would never have guessed that.,0.9285988807678223
+423.0,Ти мене коли-небудь забудеш.,You'll forget about me someday.,You'll forget about me.,0.6296101212501526
+424.0,Це досить неочікувано.,That is rather unexpected.,It's not cooked.,-0.9028561115264893
+425.0,"Цікаво, як довго це триватиме.",I wonder how long it's going to take.,It's like a long-term thing.,-0.6750863790512085
+426.0,Я не можу жити без телевізора.,I can't live without a TV.,I can't live without a TV.,0.9216583967208862
+427.0,Я не зміг би цього зробити без тебе. Дякую.,I couldn't have done it without you. Thank you.,I didn't do it without you.,-0.37924522161483765
+428.0,Я не зміг би цього зробити без вас. Дякую.,I couldn't have done it without you. Thank you.,I didn't do it without you.,-0.37924522161483765
+429.0,Я не змогла би цього зробити без тебе. Дякую.,I couldn't have done it without you. Thank you.,I couldn't do this without you.,-0.3769569396972656
+430.0,Я не змогла би цього зробити без вас. Дякую.,I couldn't have done it without you. Thank you.,I couldn't do this without you.,-0.3769569396972656
+431.0,Без зусиль нічого не добитися.,Nothing is achieved without effort.,Nothing can be done without effort.,0.7134912014007568
+432.0,Життя без любові не має сенсу.,Life without love is just totally pointless.,Life without love doesn't make sense.,-0.0395171195268631
+433.0,Життя без кохання не має сенсу.,Life without love is just totally pointless.,Life without love doesn't make sense.,-0.0395171195268631
+434.0,"Дайте мені знати, якщо мені потрібно зробити будь-які зміни.",Let me know if I need to make any changes.,"Give me knowledge, if I need to make any changes.",0.5188176035881042
+435.0,"Я думаю, що іспити псують освіту.",I think exams are ruining education.,I think they're going to get an education.,-0.1965373307466507
+436.0,"Я думаю, що екзамени руйнують освіту.",I think exams are ruining education.,I think that exams are ruining education.,0.8981931209564209
+437.0,Ми не можемо спати через шум.,We can't sleep because of the noise.,We can't sleep through the noise.,0.5682306885719299
+438.0,Ми не можемо спати через галас.,We can't sleep because of the noise.,We can't sleep through the hall.,-0.3388209939002991
+439.0,Ти маєш презерватив?,Do you have a condom?,Do you have a preserve?,-0.7996253371238708
+440.0,"Роби все, що він тобі каже.",Do whatever he tells you.,"Robby, what do you say?",-0.48679041862487793
+441.0,"Робіть все, що він вам каже.",Do whatever he tells you.,Do everything he says.,0.11339838802814484
+442.0,"Зроби все, що він тобі скаже.",Do whatever he tells you.,Do everything he tells you.,0.9099568128585815
+443.0,"Зробіть все, що він вам скаже.",Do whatever he tells you.,Do everything he tells you.,0.9099568128585815
+444.0,Я можу дійти до школи за 10 хвилин.,I can walk to school in 10 minutes.,I can go to school in 10 minutes.,0.889016330242157
+445.0,"Мені було потрібно більше двох годин, щоб перекласти кілька сторінок англійської мови.",It took me more than two hours to translate a few pages of English.,I needed more than two hours to translate several English words.,0.3200424313545227
+446.0,Вже одинадцята година.,It is already eleven.,It's been a year.,-1.0234615802764893
+447.0,Чи я можу поговорити з пані Браун?,May I talk to Ms. Brown?,Can I talk to Mrs. Brown?,0.8613214492797852
+448.0,"""Так, будь ласка помаранчовий сік,"" сказав Майк.","""Yes, orange juice please,"" says Mike.","""Thank you, please, Orange Syc"", said Mike.",0.03868462145328522
+449.0,"""Ах!"" — це вигук.","""Ah!"" is an interjection.","""Ah!"" is a whistle.",-0.463384747505188
+450.0,Чого ти хочеш?,What do you want?,What do you want?,0.912175714969635
+451.0,Що вам треба?,What do you want?,What do you need?,0.6697851419448853
+452.0,Чого ви хочете?,What do you want?,What do you want?,0.912175714969635
+453.0,Що хочете?,What do you want?,What do you want?,0.912175714969635
+454.0,"Вам необхідно, щоб я дав вам гроші?",Do you need me to give you some money?,Do you need me to give you money?,0.45412278175354004
+455.0,"Тобі необхідно, щоб я дав тобі гроші?",Do you need me to give you some money?,Do you need me to give you money?,0.45412278175354004
+456.0,У мене є мрія.,I have a dream.,I'm the one who's dead.,-1.0434789657592773
+457.0,Я маю мрію.,I have a dream.,I have a dream.,0.9244652390480042
+458.0,"Але все ж таки, супротивне також завжди істинно.","And yet, the contrary is always true as well.","But all of them, they're always true.",-0.5001586675643921
+459.0,Ти схожий на дурня.,You look stupid.,You look like a fool.,0.4880971312522888
+460.0,Ти схожа на ідіотку.,You look stupid.,You're going to die.,-1.0874602794647217
+461.0,"Я, мабуть, піду спати.",I think I'm gonna go to sleep.,I must be sleeping.,-0.7735927104949951
+462.0,"Я, мабуть, пішов спати.",I think I'm gonna go to sleep.,I must have spat.,-1.33567214012146
+463.0,"Я, мабуть, пішла спати.",I think I'm gonna go to sleep.,I must have fallen asleep.,-0.4779356122016907
+464.0,Мене звуть Джек.,My name is Jack.,I'm the Jack.,-0.9376755952835083
+465.0,Мене звати Джек.,My name is Jack.,Call me Jack.,-0.5846538543701172
+466.0,Моє ім'я - Джек.,My name is Jack.,My name is Jack.,0.9276233911514282
+467.0,Мене кличуть Джеком.,My name is Jack.,I'm called Jack.,0.3017897605895996
+468.0,Мені це дуже подобається.,I like it very much.,I like it very much.,0.9255644083023071
+469.0,Вона мені дуже подобається.,I like it very much.,She likes me very much.,-0.4412235617637634
+470.0,Ми зустрічаємося завтра?,We're meeting up tomorrow?,Are we meeting tomorrow?,0.7057192325592041
+471.0,Ми завтра зустрінемося?,We're meeting up tomorrow?,Will we meet tomorrow?,0.654759407043457
+472.0,Як це сказати італійською?,How do you say that in Italian?,How do I say Italian?,0.30522632598876953
+473.0,"Мушу йти за покупками, повернуся за годину.",I have to go shopping. I'll be back in an hour.,"I have to go shopping, turn around for an hour.",0.47604918479919434
+474.0,Це далеко звідси?,Is it far from here?,Is that far from it?,0.5104045867919922
+475.0,Ці речі не мої!,These things aren't mine!,These things are not mine!,0.8253825902938843
+476.0,"Дякую, це все.","Thanks, that's all.",I'll give it all.,-0.04751893877983093
+477.0,Ти не хотів би зі мною потанцювати?,Would you like to dance with me?,Didn't you want to dance with me?,0.41776925325393677
+478.0,Ти не хотіла би зі мною потанцювати?,Would you like to dance with me?,Didn't you want to dance with me?,0.41776925325393677
+479.0,Італія - дуже гарна країна.,Italy is a very beautiful country.,Italy is a beautiful country.,0.8364881277084351
+480.0,Італія - це дуже красива країна,Italy is a very beautiful country.,Italy is a very beautiful country.,0.9257893562316895
+481.0,Італія - дуже красива країна.,Italy is a very beautiful country.,Italy is a very beautiful country.,0.9257893562316895
+482.0,Італія — дуже гарна країна.,Italy is a very beautiful country.,Italy is a beautiful country.,0.8364881277084351
+483.0,Це не моя провина.,It's not my fault!,It's not my fault.,0.8585134744644165
+484.0,Я хотів би залишитись на одну ніч.,I'd like to stay for one night.,I wanted to stay on the same page.,-0.5406522154808044
+485.0,Можете набрати мені номер? Для мене телефон зависоко.,Could you dial for me? The telephone is too high.,Can you pick me up?,-1.207381248474121
+486.0,"Наберіть мені номер, бо телефон занадто високо для мене.",Could you dial for me? The telephone is too high.,"I don't have a number, because the phone is too high for me.",-0.12132318317890167
+487.0,Де душова?,Where are the showers?,De Duchowa?,-1.205320119857788
+488.0,Рот відкрий!,Open your mouth!,Open up!,-0.6662987470626831
+489.0,Відкрий рота.,Open your mouth!,The rotary wing.,-1.3175092935562134
+490.0,Це погано?,Is it bad?,Is that wrong?,-0.040200307965278625
+491.0,Я загубив гаманець.,I have lost my wallet.,I lost my wallet.,0.5776516199111938
+492.0,Я загубила гаманець.,I have lost my wallet.,I lost my wallet.,0.5776516199111938
+493.0,Він вельми сексуальний.,He's very sexy.,He's a great sexist.,-0.4844474792480469
+494.0,Маємо забагато справ!,There are too many things to do!,We are busy!,-1.1072338819503784
+495.0,"Ну пограй зі мною, бо мені нудно!","Come on, play with me, I'm so bored!","Play with me, I'm tired!",-0.10531501471996307
+496.0,Через тебе я втратив апетит.,Thanks to you I've lost my appetite.,I lost my appetite for you.,0.46867257356643677
+497.0,Мені дуже потрібно когось ударити.,I really need to hit somebody.,I need someone to help me.,-0.42389166355133057
+498.0,Хто ж не знає цієї проблеми?,Who doesn't know this problem?!,Who doesn't know this problem?,0.8913832306861877
+499.0,"Якщо ти не хочеш користуватися сонцезахисним кремом, це твоя проблема. Але потім не приходь до мене жалітися, коли в тебе буде сонячний опік.","If you don't want to put on sunscreen, that's your problem. Just don't come complaining to me when you get a sunburn.","If you don't want to use sunscreen, that's your problem.",-0.5356156826019287
+500.0,"Якщо ви не хочете користуватися сонцезахисним кремом, це ваша проблема. Але потім не приходьте до мене жалітися, коли у вас буде сонячний опік.","If you don't want to put on sunscreen, that's your problem. Just don't come complaining to me when you get a sunburn.","If you don't want to use sunscreen, that's your problem.",-0.5356156826019287
+501.0,"Я такий злий... Тепер щоразу як вмикаю комп'ютер, це цілий головний біль!",So annoying... Now I get a headache whenever I use the computer!,"I'm like... Now I'm like a computer, that's all I have to do!",-0.8071762323379517
+502.0,"Так дратує... Тепер у мене болить голова кожного разу, коли я користуюся комп'ютером!",So annoying... Now I get a headache whenever I use the computer!,So it's annoying... Now I'm in everyone's head when I use a computer!,-0.25366532802581787
+503.0,"Так спекотно, що можна було б смажити яйця на капотах машин.",It's so hot that you could cook an egg on the hood of a car.,"So, what could have been smashed into a carriage?",-1.3352711200714111
+504.0,Сьогодні дуже жарко.,It is very hot today.,I'm very hot.,-0.5500056743621826
+505.0,Сьогодні дуже спекотно.,It is very hot today.,I'm very excited.,-0.8564132452011108
+506.0,Ніхто не прийшов.,Nobody came.,Nobody came.,0.9459396600723267
+507.0,Я ніколи не бачив червоного холодильника.,I never saw a red fridge.,I never saw a cold-blooded man.,-0.9501372575759888
+508.0,Я ніколи не бачила червоного холодильника.,I never saw a red fridge.,I never left a cold one.,-1.0413105487823486
+509.0,Я ніколи не бачив червоних холодильників.,I never saw a red fridge.,I never left cold ones.,-1.1426324844360352
+510.0,"Математика є частиною науки, якою можна продовжувати займатись, якщо навіть ви прокинулися вранці і виявили, що всесвіту немає.",Mathematics is the part of science you could continue to do if you woke up tomorrow and discovered the universe was gone.,"Mathematics is part of science, which you can continue to master, even if you've been taught and discovered everything.",-0.17885853350162506
+511.0,"Мої очі океан, в якому відображаються мої мрії.",My eyes are an ocean in which my dreams are reflected.,"My ocean, which reflects my dreams.",-0.7413994073867798
+512.0,"Дивись на мене, коли я з тобою розмовляю!",Look at me when I talk to you!,Watch me when I talk to you!,0.7213155627250671
+513.0,Яким би був світ без жінок?,What would the world be without women?,What would happen to a woman without a woman?,0.18479545414447784
+514.0,"Що, якби ти виступав з промовою, і ніхто не прийшов?",What if you gave a speech and nobody came?,"What, you're not coming for promotions, and no one's coming?",-0.9290511608123779
+515.0,"Я не знаю що тобі сказати, щоб тобі покращало.",I don't know what to say to make you feel better.,I don't know what to say to you to make you better.,0.537102460861206
+516.0,"Я не знаю, що сказати, щоб тобі стало краще.",I don't know what to say to make you feel better.,"I don't know what to say, so you're better.",0.29117530584335327
+517.0,"Я не знаю, що сказати, щоб вам стало краще.",I don't know what to say to make you feel better.,"I don't know what to say, so you're better.",0.29117530584335327
+518.0,Це не мій типаж.,This is not my type.,It's not my type.,0.7527005672454834
+519.0,Я намагався вбити час.,I was trying to kill time.,I tried to kill him.,0.3022633194923401
+520.0,Як ти додумався до цієї шаленої думки?,How did you come up with this crazy idea?,How did you come up with this crazy idea?,0.8997834920883179
+521.0,Я втомився.,I'm tired.,I was in.,-1.0191279649734497
+522.0,Я втомилася.,I'm tired.,I was tired.,0.5746223330497742
+523.0,Хто хоче гарячого шоколаду?,Who wants some hot chocolate?,Who wants to make chocolate?,0.04604311287403107
+524.0,Кому какао?,Who wants some hot chocolate?,To whom?,-1.344092845916748
+525.0,Хто хоче какао?,Who wants some hot chocolate?,Who wants to be a coward?,-1.246483564376831
+526.0,"Говори повільніше, будь ласка!","Speak more slowly, please!","Speak slowly, please!",0.687468409538269
+527.0,Коли ми прибуваємо?,When do we arrive?,What do we do?,-0.8019142150878906
+528.0,"Рахунок, будь ласка.","The check, please.","Please, please.",-0.3977401852607727
+529.0,І що будемо тепер робити?,And what are we going to do?,And what shall we do now?,0.5867045521736145
+530.0,У мене болить голова.,I have a headache.,I'm in pain.,0.3227602243423462
+531.0,Мені болить голова.,I have a headache.,To hurt my head.,-0.9742907285690308
+532.0,Звідки можна подзвонити?,Where can one make a phone call?,Where can I get it?,-1.1351218223571777
+533.0,"Я повинен визнати, що хроплю.",I must admit that I snore.,I have to recognize that I'm crying.,-0.649529755115509
+534.0,Сьогодні ввечері ми збираємось до церкви.,Tonight we're going to church.,We're going to church today.,0.7639379501342773
+535.0,Як ти? Сподобалася подорож?,How are you? Did you have a good trip?,How are you?,-0.9267410039901733
+536.0,Я погано почуваюся.,I don't feel well.,I feel bad.,-0.6799827814102173
+537.0,Не відчуваю себе добре.,I don't feel well.,I don't feel well.,0.9276328086853027
+538.0,Мені не дуже добре.,I don't feel well.,I'm not very good.,0.22653211653232574
+539.0,Я не дуже добре почуваюся.,I don't feel well.,I don't feel very well.,0.9050602912902832
+540.0,Викличте поліцію!,Call the police!,Call the police!,0.9315400719642639
+541.0,Це занадто дорого!,It's too expensive!,It's too expensive!,0.9192972183227539
+542.0,Це задорого!,It's too expensive!,It's expensive!,0.6897647380828857
+543.0,Задорого.,It's too expensive!,It's expensive.,0.5816008448600769
+544.0,Задорого!,It's too expensive!,It's expensive!,0.6897647380828857
+545.0,"Вона вдає, що спить. Ось чому не хропить.",She's faking sleep. That's why she's not snoring.,"She's sleeping, that's why she's not crying.",-0.36294132471084595
+546.0,Моï черевики дуже малi. Менi потрiбнi новi.,My shoes are too small. I need new ones.,My cheeks are very small.,-1.0455044507980347
+547.0,Ми йдемо звідси. Поліцейські йдуть.,We're getting out of here. The cops are coming.,We're going to the police station.,0.19553957879543304
+548.0,Веселого Різдва!,Merry Christmas!,It's a great day!,-1.0857224464416504
+549.0,З Різдвом!,Merry Christmas!,With a razor!,-1.1962800025939941
+550.0,"Було б так круто, якби я розмовляв десятьма мовами!",It would be so cool if I could speak ten languages!,"It was so cool, I was talking ten languages!",0.25056999921798706
+551.0,"""Якщо ви втомилися, чому б вам не піти спати?"" ""Тому що, якщо я зараз піду спати, то встану зарано.""","""If you're tired, why don't you go to sleep?"" ""Because if I go to sleep now I will wake up too early.""","""If you're asleep, why don't you drink?"" ""If I'm going to sleep, I'm going to get up"".",-0.2838061451911926
+552.0,Ви мали послухатись мене.,You should have listened to me.,You should listen to me.,0.6794129610061646
+553.0,Що це передбачає?,What does it involve?,What does it mean?,-0.1475469321012497
+554.0,"Сто п'ятдесят тисяч пар, як очікується, одружаться в Шанхаї в 2006 році.",One hundred and fifty thousand couples are expected to get married in Shanghai in 2006.,"One hundred and fifty thousand pairs, as expected, will be married in Shanghai in 2006.",0.5485077500343323
+555.0,Півмільйона дітей як і раніше стикаються з недоїданням в Нігері.,Half a million children still face malnutrition in Niger.,Half a million children are born in Nigeria.,-0.3699025511741638
+556.0,Лише за п’ять-десять років технологія досягне необхідного рівня.,It will take five to ten years for the technology to be ready.,Only for five or ten years will the technology reach the necessary level.,0.40248531103134155
+557.0,Велосипеди — інструменти для сталого розвитку міст.,Bicycles are tools for urban sustainability.,Cycling <unk> tools for stable development.,-0.6884230971336365
+558.0,Він був би радий почути це.,He would be glad to hear that.,He was a radio buzzer.,-1.0926599502563477
+559.0,Комп'ютери роблять людей обмеженими.,Computers make people stupid.,Computers are limited people.,-0.42778027057647705
+560.0,Комп'ютери роблять із людей ідіотів.,Computers make people stupid.,Computers make people.,-0.4835418462753296
+561.0,"Не питайте, що вони думають. Питайте, що вони роблять.",Don't ask what they think. Ask what they do.,"Don't eat, they think.",-1.1095539331436157
+562.0,"Коли ви намагаєтеся щось довести, допомагає знання, що це правда.","When you're trying to prove something, it helps to know it's true.","When you try to prove something, knowledge helps, that's true.",0.5780020952224731
+563.0,"Світ змінює комунікація, а не інформація.","What changes the world is communication, not information.","The world changes, not the information.",-0.2580639123916626
+564.0,"Більшість наукових проривів не що інше, як відкриття очевидного.",Most scientific breakthroughs are nothing else than the discovery of the obvious.,"Most of the scientific evidence is not what it is, as an open source.",-0.5324898958206177
+565.0,"Все, що може бути неправильно зрозумілим, буде неправильно зрозумілим.",Anything that can be misunderstood will be.,"Everything that can be misunderstood, will be misunderstood.",0.8369224071502686
+566.0,"Будь-який достатньо простий всесвіт, щоб бути осягненим, є занадто простим, щоб породити розум, здатний його осягнути.",Any universe simple enough to be understood is too simple to produce a mind able to understand it.,"To be all-encompassing, to be all-encompassing, to be all-encompassing, to be all-encompassing, to be all-encompassing.",-0.7614791393280029
+567.0,Чому життя так повне страждань?,Why is life so full of suffering?,Why is life so painful?,0.45293211936950684
+568.0,Я голодний!,I'm starving!,I am hungry!,0.7726663947105408
+569.0,Я помираю з голоду.,I'm starving!,I'm starving to death.,0.04953283071517944
+570.0,Я помираю від голоду.,I'm starving!,I'm starving to death.,0.04953283071517944
+571.0,Я помираю від голоду!,I'm starving!,I'm starving to death!,0.2117621749639511
+572.0,У тебе є друзі в Антигуа?,Do you have friends in Antigua?,Are you friends with Antigua?,0.3926887512207031
+573.0,"Я одружений, і маю двоє дітей.",I am married and have two children.,"I'm married, and I have two children.",0.8470908403396606
+574.0,"Я заміжня, і маю двоє дітей.",I am married and have two children.,"I'm a widow, and I have two children.",-0.00456903874874115
+575.0,Він дуже добре грає на піаніно.,He plays the piano very well.,He plays the piano very well.,0.9213799238204956
+576.0,Я б хотів навчатися в Парижі.,I'd like to study in Paris.,I wanted to study in Paris.,0.5739498734474182
+577.0,Я б хотіла навчатися в Парижі.,I'd like to study in Paris.,I wanted to study in Paris.,0.5739498734474182
+578.0,"Ти не знаєш, хто я.",You don't know who I am.,You don't know who I am.,0.9141574501991272
+579.0,"Ти не знаєш, хто я такий.",You don't know who I am.,You don't know who I am.,0.9141574501991272
+580.0,"Ви не знаєте, хто я такий.",You don't know who I am.,You don't know who I am.,0.9141574501991272
+581.0,Чому ви не їсте овочі?,Why don't you eat vegetables?,Why don't you eat this?,-0.23555319011211395
+582.0,Чому ти не їж овочі?,Why don't you eat vegetables?,Why don't you eat this?,-0.23555319011211395
+583.0,Чому люди йдуть в кіно?,Why do people go to the movies?,Why are people in movies?,0.44100791215896606
+584.0,Чому люди ходять у кіно?,Why do people go to the movies?,Why do people go to the movies?,0.9141988754272461
+585.0,Я роздягаюся.,I'm undressing.,I'm going to lie down.,-0.09050637483596802
+586.0,Автомобіль розбився об стіну.,The car crashed into the wall.,The car crashed.,-0.4494350552558899
+587.0,Машина врізалася в стіну.,The car crashed into the wall.,The machine was in the wall.,-0.8933894634246826
+588.0,Реальних видінь не буває.,There are no real visions.,Real sight is not a thing.,-0.9021159410476685
+589.0,Креаціонізм — псевдонаука.,Creationism is a pseudo-science.,The pseudo-science of creativeness.,-0.6279758810997009
+590.0,Креаціонізм — це псевдонаука.,Creationism is a pseudo-science.,Creationaism is a pseudo-science.,0.08332012593746185
+591.0,Вітер вщух.,The wind calmed down.,Witter in the whirlwind.,-0.8412612676620483
+592.0,Я не хочу робити тобі пропозицію!,I don't want to propose to you!,I don't want to offer you!,0.5224599838256836
+593.0,Я не хочу освідчуватися тобі.,I don't want to propose to you!,I don't want to hear you.,0.19400598108768463
+594.0,"Демократ - це вільний громадянин, який кориться волі більшості.",A democrat is a free citizen who yields to the will of the majority.,A democrat is a free citizen who uses the will of the majority.,0.6915598511695862
+595.0,"Там, де воля, там і шлях.","Where there's a will, there's a way.","There, of course, is the way.",0.007354274392127991
+596.0,"Хто шукає, той завжди знайде.","Who searches, finds.","Whoever seeks, he always finds.",0.16956110298633575
+597.0,Рим не за один день був збудований.,Rome wasn't built in a day.,Rome was not built for one day.,0.6794463992118835
+598.0,Мовчання — знак згоди.,Silence gives consent.,The sign of the zodiac.,-1.1175545454025269
+599.0,Хто мовчить - погоджується.,Silence gives consent.,Who's going to die?,-1.1655789613723755
+600.0,"Чому кажуть «Добрий день» тоді, коли день не добрий?","Why does one say ""Good day"" when the day is not good?","Why do they say ""good day"" when it's not good?",0.3703501224517822
+601.0,Це був найкращий день мого життя.,That was the best day of my life.,It was my best day of life.,0.6921106576919556
+602.0,Цей був найкращий день мого життя.,That was the best day of my life.,This was my best day of life.,0.8114253878593445
+603.0,Це був найкращий день у моєму житті.,That was the best day of my life.,It was the best day of my life.,0.7348803281784058
+604.0,Я не розумію німецької.,I don't understand German.,I don't understand German.,0.908926248550415
+605.0,Я прийняв рішення.,I made my decision.,I made a decision.,0.7388764023780823
+606.0,Я прийняла рішення.,I made my decision.,I made a decision.,0.7388764023780823
+607.0,Даю слово.,I give you my word.,I give the word.,0.23192530870437622
+608.0,Слово даю.,I give you my word.,I give word.,0.025268062949180603
+609.0,Я даю тобі слово.,I give you my word.,I'll give you a word.,0.5818777680397034
+610.0,Я даю тобі своє слово.,I give you my word.,I'll give you my word.,0.7707493305206299
+611.0,Я даю вам слово.,I give you my word.,I give you a word.,0.6316553354263306
+612.0,Я даю вам своє слово.,I give you my word.,I give you my word.,0.9150216579437256
+613.0,Ти велика любов мого життя.,You are the great love of my life.,You are my love life.,0.45213156938552856
+614.0,Маємо папу.,We have a Pope.,We are dads.,-1.1281561851501465
+615.0,Математики — як французи: що їм не скажеш — перекладають на свою власну мову і перетворюють у щось зовсім інше по смислу.,Mathematicians are like French people: whatever you tell them they translate it into their own language and turn it into something totally different.,"Mathematics is like French: they don't say, they translate into their own language and they turn into something else.",0.015343800187110901
+616.0,"Не хвилюйся, будь щасливий.","Don't worry, be happy!","Don't worry, be happy.",0.8348052501678467
+617.0,"Нічим не переймайся, будь щасливий!","Don't worry, be happy!","Don't worry, be happy!",0.9118034839630127
+618.0,"Я вважаю, що іноземні мови дуже цікаві.",I find foreign languages very interesting.,I think foreign languages are very interesting.,0.6717519760131836
+619.0,Я не люблю вчити неправильні дієслова.,I don't like learning irregular verbs.,I don't like to read wrong words.,-0.7613610625267029
+620.0,Візьми книгу та прочитай її!,Take a book and read it.,Read the book!,-0.6089300513267517
+621.0,Я несамовитий від радості.,I'm beside myself with joy.,I'm not happy about it.,-0.13319848477840424
+622.0,Він уже чоловік.,He's already a man.,He's already dead.,-0.9944634437561035
+623.0,Відпустка вже скінчилася.,The vacation is over now.,The desert is already gone.,-0.8531843423843384
+624.0,Я боюся впасти.,I'm afraid to fall.,I'm afraid to go.,0.6479612588882446
+625.0,Це абсолютна правда.,That's the absolute truth.,That's the truth.,0.09174668788909912
+626.0,Холодно.,It's cold.,It's cold.,0.9061275720596313
+627.0,Зимно.,It's cold.,Winter.,-1.31656813621521
+628.0,Студить.,It's cold.,Study.,-1.1921604871749878
+629.0,Я хочу пити.,I'm thirsty.,I want to drink.,-0.06229294836521149
+630.0,Хочу пити.,I'm thirsty.,I want to drink.,-0.06229294836521149
+631.0,"Коли не можеш зробити те, що хочеш, ти робиш те, що можеш.","When you can't do what you want, you do what you can.","If you can't do what you want, you can do what you want.",0.8616035580635071
+632.0,"Коли не можеш зробити те, що хочеш, роби те, що можеш.","When you can't do what you want, you do what you can.","If you can't do what you want, do what you can.",0.8669368028640747
+633.0,Ти навмисно це зробив!,You did this intentionally!,You did it all the time!,-0.510616660118103
+634.0,Ти це спеціально зробив!,You did this intentionally!,You did it on purpose!,0.21025767922401428
+635.0,Ти йому нічого не сказав?,You didn't tell him anything?,Didn't you say anything to him?,0.6485820412635803
+636.0,Ти йому нічого не сказала?,You didn't tell him anything?,Didn't you say anything to him?,0.6485820412635803
+637.0,Ви йому нічого не сказали?,You didn't tell him anything?,Didn't you say anything to him?,0.6485820412635803
+638.0,Через тебе я втратив голову.,You made me lose my mind.,I lost my head because of you.,-0.126039519906044
+639.0,Ти мій типаж.,You're my type.,You're my type.,0.9245803356170654
+640.0,Ти чарівний.,You're irresistible.,You are a black man.,-1.0338869094848633
+641.0,Ти чарівна.,You're irresistible.,You are a charity.,-0.9836821556091309
+642.0,"Ти не міг біг передзвонити пізніше, будь ласка?","Could you call again later, please?","You couldn't have switched later, please?",-0.020755648612976074
+643.0,З ким я розмовляю?,Who am I talking with?,Who am I talking to?,0.5157021284103394
+644.0,"Я згоден, але в мене є одна умова.","I accept, but only under one condition.","I agree, but I'm a wuss.",-0.8086229562759399
+645.0,"Я згоден, але за однієї умови.","I accept, but only under one condition.","I agree, but for one condition.",0.4281323552131653
+646.0,"Посмiхнись зараз, поплачеш потiм!","Smile now, cry later!","I'm going to die, I'm going to die!",-1.2122611999511719
+647.0,Життя прекрасне.,Life is beautiful.,Life is over.,-0.7396277785301208
+648.0,Життя вдалося.,Life is beautiful.,Life was successful.,-0.5503772497177124
+649.0,Життя прекрасне!,Life is beautiful.,Life is over!,-0.7836647033691406
+650.0,Я не можу стригти нігті і одночасно прасувати!,I can't cut my nails and do the ironing at the same time!,I can't cut and sew at the same time!,-0.6259150505065918
+651.0,Ти за чи проти абортів?,Are you for or against abortions?,What are you talking about?,-1.2875553369522095
+652.0,Що змусило тебе змінити думку?,What made you change your mind?,Did you make me change my mind?,-0.16435350477695465
+653.0,Що змусило вас змінити думку?,What made you change your mind?,Did it make you change your mind?,0.44158273935317993
+654.0,"Ну-мо, поглянь, мавпа з трьома головами!","Hey, look, a three-headed monkey!","Look at me, I'm a three-headed monkey!",-0.15490256249904633
+655.0,Я обожнюю лазанью.,I love lasagna.,I love the lazan.,-0.12261094152927399
+656.0,Я люблю лазанью.,I love lasagna.,I love the lazan.,-0.12261094152927399
+657.0,Я в лікарні. У мене влучила блискавка.,I'm at the hospital. I got struck by lightning.,I got a flashlight in my doctor's office.,-0.9793190956115723
+658.0,Що для тебе є найбільшим джерелом наснаги?,What is your greatest source of inspiration?,What's the biggest source of energy for you?,-0.5002543926239014
+659.0,Що для тебе найкраще джерело натхнення?,What is your greatest source of inspiration?,What's the best inspiration for you?,-0.24522189795970917
+660.0,В теорії немає різниці між теорією та практикою. Але на практиці є.,"In theory, there is no difference between theory and practice. But, in practice, there is.",There's no difference between theory and practice.,0.1015845388174057
+661.0,"В цьому світі існують настільки голодні люди, що бог може з'явитися до них лише у вигляді хліба.","There are people in the world so hungry, that God cannot appear to them except in the form of bread.","In this world there are so many hungry people, that God can only appear to them as a slave.",-0.18665026128292084
+662.0,"Я перечитував листи, які ти мені надіслав.",I was rereading the letters you sent to me.,"I read the lists, which you sent me.",0.057771340012550354
+663.0,"Я перечитував листи, які ти мені надіслала.",I was rereading the letters you sent to me.,I read the letters you sent me.,0.31207698583602905
+664.0,"Я перечитувала листи, які ти мені надіслав.",I was rereading the letters you sent to me.,"I read the lists, which you sent me.",0.057771340012550354
+665.0,"Я перечитувала листи, які ти мені надіслала.",I was rereading the letters you sent to me.,I read the letters you sent me.,0.31207698583602905
+666.0,Я не хочу йти до школи.,I don't want to go to school.,I don't want to go to school.,0.9088836908340454
+667.0,Не хочу в школу.,I don't want to go to school.,I don't want to go to school.,0.9088836908340454
+668.0,Я не хочу ходити до школи.,I don't want to go to school.,I don't want to go to school.,0.9088836908340454
+669.0,Між нами все скінчено. Віддай мені перстень!,It's over between us. Give me back my ring!,Everything is lost in us.,-1.1843130588531494
+670.0,Йде дощ.,It is raining.,There is a lot.,-1.0451709032058716
+671.0,Падає дощ.,It is raining.,It falls.,-0.3714195489883423
+672.0,Дощить.,It is raining.,To be found.,-1.1677868366241455
+673.0,"Я планував піти сьогодні на пляж, але потім почало дощити.","I was planning on going to the beach today, but then it started to rain.","I planned to drink on the beach today, but then I started to.",-0.3742101788520813
+674.0,"Вона дуже розумна, чи не так?","She's really smart, isn't she?","She's smart, isn't she?",0.4904661774635315
+675.0,"Вона насправді розумна, правда?","She's really smart, isn't she?","She's actually smart, right?",-0.20961891114711761
+676.0,Справедливість дорого коштує.,Justice is expensive.,It's expensive.,-0.7523680925369263
+677.0,Справедливість коштує дорого.,Justice is expensive.,Justice is expensive.,0.9361817240715027
+678.0,Правосуддя коштує дорого.,Justice is expensive.,Justice is expensive.,0.9361817240715027
+679.0,"Життя — смертельна хвороба, що передається статевим шляхом.",Life is a fatal sexually transmitted disease.,"Death by disease, which is transmitted by the stomach.",-0.28941988945007324
+680.0,Я завтра вчитимуся в бібліотеці.,"Tomorrow, I'm going to study at the library.",I'll teach in the library tomorrow.,0.3770142197608948
+681.0,Я завтра займатимуся в бібліотеці.,"Tomorrow, I'm going to study at the library.",I'll take the library tomorrow.,0.36065903306007385
+682.0,Запізно.,Too late.,Write it down.,-1.1095954179763794
+683.0,Вчора я ходив до зоопарку.,I went to the zoo yesterday.,Yesterday I went to the zoo.,0.917607843875885
+684.0,Вчора я ходила до зоопарку.,I went to the zoo yesterday.,Yesterday I went to the zoo.,0.917607843875885
+685.0,Ми виграли битву.,We won the battle.,We won the battle.,0.9217673540115356
+686.0,Гей! Ти ще тут?,Hello? Are you still here?,"Hey, are you gonna be here?",0.32852455973625183
+687.0,Алло? Ти ще там?,Hello? Are you still here?,Hello? Are you there?,0.41852110624313354
+688.0,Я готую обід щодня.,I make lunch every day.,I'm going to eat every day.,0.4787878394126892
+689.0,Я готую ланч щодня.,I make lunch every day.,I'm having lunch every day.,0.5886713266372681
+690.0,Сьогодні вранці я дивився телевізор.,I watched TV this morning.,I watched TV in the morning.,0.7015319466590881
+691.0,Сьогодні вранці я дивилася телевізор.,I watched TV this morning.,I watched TV in the morning.,0.7015319466590881
+692.0,Я читав книжку під час їжі.,I read a book while eating.,I read a book during the meal.,0.662560224533081
+693.0,"Я читав книжку, поки їв.",I read a book while eating.,"I read the book, left.",-0.7944639921188354
+694.0,Я читала книжку під час їжі.,I read a book while eating.,I was reading a book during the meal.,0.6682336926460266
+695.0,"Я читала книжку, поки їла.",I read a book while eating.,"I read the book, left it.",-0.7651444673538208
+696.0,Я почав вивчати китайську минулого тижня.,I started learning Chinese last week.,I started learning Chinese last week.,0.9130382537841797
+697.0,Я почала вивчати китайську минулого тижня.,I started learning Chinese last week.,I started learning Chinese last week.,0.9130382537841797
+698.0,Минулого тижня я почав вивчати китайську.,I started learning Chinese last week.,Minugeng began to learn Chinese.,-0.8107600808143616
+699.0,Минулого тижня я почала вивчати китайську.,I started learning Chinese last week.,I started learning Chinese in the afternoon.,0.28022193908691406
+700.0,Твої окуляри впали.,Your glasses fell on the floor.,Your eyelids are in.,-1.1652814149856567
+701.0,В тебе окуляри впали на землю.,Your glasses fell on the floor.,The eyelids fell on the ground.,-0.8787620067596436
+702.0,Твої окуляри впали на підлогу.,Your glasses fell on the floor.,Your eyelids are on the floor.,-0.6986901760101318
+703.0,Ваші окуляри впали на підлогу.,Your glasses fell on the floor.,Your eyes are on the floor.,-0.7690630555152893
+704.0,Скільки разів на день ти дивишся на себе у дзеркало?,How many times a day do you look at yourself in the mirror?,How many times a day do you look at yourself in the mirror?,0.8814355134963989
+705.0,Скільки разів на день ти дивишся на себе у люстерко?,How many times a day do you look at yourself in the mirror?,How many times a day do you look at yourself in a mirror?,0.7918891906738281
+706.0,Скільки разів на день ви дивитеся на себе у дзеркало?,How many times a day do you look at yourself in the mirror?,How many times a day do you look at yourself?,0.07587774097919464
+707.0,Скільки разів на день ви дивитеся на себе у люстерко?,How many times a day do you look at yourself in the mirror?,How many times a day do you get distracted by a candle?,-0.61639004945755
+708.0,Ми поїхали до Лондона минулого року.,We went to London last year.,We traveled to London last year.,0.9072409868240356
+709.0,Вона не хоче про це говорити.,She doesn't want to talk about it.,She doesn't want to talk about it.,0.9106763601303101
+710.0,Я втратив натхнення.,I lost my inspiration.,I lost my inspiration.,0.9234219193458557
+711.0,Я втратила натхнення.,I lost my inspiration.,I lost my inspiration.,0.9234219193458557
+712.0,Це не має ніякого значення!,It doesn't mean anything!,It doesn't matter!,-0.2451983541250229
+713.0,"Зачини двері, коли будеш іти.",Close the door when you leave.,"Close the door, when you will.",-0.07959263026714325
+714.0,"Зачиніть двері, коли будете йти.",Close the door when you leave.,You'll be there when you get there.,-0.42310553789138794
+715.0,"Якщо немає рішення, то нема й проблеми.","If there's no solution, then there's no problem.","If there is no solution, there is no problem.",0.6624741554260254
+716.0,Мій молодший брат дивиться телевізор.,My little brother is watching TV.,My younger brother is watching TV.,0.4581204056739807
+717.0,"Так, це трапляється час від часу.","Yes, it happens from time to time.","So, this is a time-traveling thing.",-0.37220561504364014
+718.0,Добре мати ідеали... ви так не думаєте?,It is good to have ideals... don't you think?,Good mother idealized... don't you think?,-0.6821886301040649
+719.0,"Мати ідеали - це добре, .. як гадаєш?",It is good to have ideals... don't you think?,"Mati ideali - that's good, how are you?",-0.8128796815872192
+720.0,Люди в усьому світі завжди борються за більшу свободу та рівність.,People in the world are always advocating for more freedom and equality.,People in the world always fight for freedom and dignity.,-0.0021045058965682983
+721.0,"Якщо ви не прислухаєтеся до нас, ми будемо вимушені застосувати силу.","If you don't listen to us, we will have to resort to coercion.","If you don't listen to us, we'll have to stop you.",0.12118560075759888
+722.0,Голод для нього був абстрактним поняттям; в нього завжди було достатньо їжі.,"To him, hunger was an abstract concept; he always had enough to eat.",Hunger for him was an abstract concept; there was always enough food for him.,0.5234930515289307
+723.0,"Це залежить від того, що ви називаєте ""вірою"" у бога.","It depends what you mean by ""believe"" in God.","It depends on what you call a ""blue"".",-0.940657377243042
+724.0,"Батьки відмовилися б від мого брата, якби дізналися, що він ґей.",My parents would repudiate my brother if they ever found out he was gay.,"My brother's father refused, as if he knew, that he was.",-0.7282752990722656
+725.0,Тим - великий прихильник сатиричної комедії.,Tim is a huge fan of satirical comedy.,Tim - the great comedian.,-0.8802671432495117
+726.0,Я дуже люблю свою роботу.,I like my job very much.,I love my job.,-0.4095316529273987
+727.0,Маленький вогонь в лісі може легко поширитися і швидко стати величезною пожежею.,A small forest fire can easily spread and quickly become a great conflagration.,A small fire in the forest can easily spread and quickly become a huge fire.,0.4450153708457947
+728.0,Ти мені снилася.,I dreamt about you.,You fell down.,-1.2940751314163208
+729.0,Я не програю!,I won't lose!,I'm not losing!,0.2652488946914673
+730.0,Я запізнився до школи.,I was late to school.,I wrote to school.,-0.036833614110946655
+731.0,Заняття скоро розпочнуться знову.,Classes are starting again soon.,They'll be back soon.,-0.6969776153564453
+732.0,Але ж ти ніколи мені про це не розповідала!,But you've never told me about this!,But you never told me about it!,0.6207406520843506
+733.0,Але ти мені ніколи про це не казав!,But you've never told me about this!,But you never told me about it!,0.6207406520843506
+734.0,Я змінив розмітку свого сайту.,I've changed my website's layout.,I changed the size of my website.,0.29855626821517944
+735.0,Я змінила розмітку свого сайту.,I've changed my website's layout.,I changed the size of my website.,0.29855626821517944
+736.0,В тебе було повно часу.,You had plenty of time.,You were full of time.,0.42828094959259033
+737.0,В тебе було багато часу.,You had plenty of time.,You had a lot of time.,0.844527542591095
+738.0,Припини мене критикувати!,Stop criticizing me!,Stop criticizing me!,0.9201992750167847
+739.0,Перестань мене критикувати!,Stop criticizing me!,Stop criticizing me!,0.9201992750167847
+740.0,Перестаньте мене критикувати!,Stop criticizing me!,Stop criticizing me!,0.9201992750167847
+741.0,"Ну ж бо, поговори зі мною, Транґу.","Come on! Talk to me, Trang.","Well, talk to me, Trans.",-0.7769508957862854
+742.0,Я майже закінчив.,I'm almost done.,I almost quit.,-1.0036503076553345
+743.0,Я майже закінчила.,I'm almost done.,I almost finished.,0.20725464820861816
+744.0,Я майже скінчив.,I'm almost done.,I almost quit.,-1.0036503076553345
+745.0,Я майже скінчила.,I'm almost done.,I almost got rid of it.,-0.4326440095901489
+746.0,Візьми інший стілець!,Take the other chair!,The other one is standing!,-0.2801631689071655
+747.0,Скільки залишилося бутербродів?,How many sandwiches are there left?,What's left of the bread?,-0.6105437278747559
+748.0,Скільки канапок лишилось?,How many sandwiches are there left?,How many canals were lost?,-1.0137028694152832
+749.0,Я не буду опускатися до його рівня.,I won't lower myself to his level.,I won't let him down.,-0.13585315644741058
+750.0,З вікна нам було видно захід сонця.,We could see the sunset from the window.,We were told the sun was shining.,-0.46777766942977905
+751.0,Це зводить мене з глузду.,It's driving me crazy.,It's the same with me.,-0.6792363524436951
+752.0,"Ти сказав, що я ніколи не зможу виграти?",Did you say that I could never win?,You said I'd never win?,0.24425658583641052
+753.0,"Ти сказала, що я ніколи не зможу перемогти?",Did you say that I could never win?,You said I could never win?,0.6631730794906616
+754.0,"Ти сказав, що мені ніколи не виграти?",Did you say that I could never win?,Did you say I never won?,0.4809441566467285
+755.0,"Ти сказала, що мені ніколи не перемогти?",Did you say that I could never win?,You said I'd never win?,0.24425658583641052
+756.0,На вулиці темно як у льоху.,It's all dark outside.,In the dark like a leaf.,-0.8998510837554932
+757.0,Що сталося? Вода по всій хаті!,What happened? There's water all over the apartment.,What happened?,-1.0477290153503418
+758.0,"Ви будете говорити і робити те, що ваші батьки говорили і робили, навіть якщо ви присягнетеся, що ніколи не зробили би це.","You will say and do things your parents said and did, even if you swore you would never do them.","You will talk and do what your parents said and did, even if you never did.",-0.12177716195583344
+759.0,Я застарий для цього світу.,I am too old for this world.,I'm stuck in this world.,-0.08626215159893036
+760.0,"Життя починається тоді, коли ви готові його жити.",Life begins when you're ready to live it.,"Life starts then, when you're ready to live.",0.6744240522384644
+761.0,Вчитися ніколи не пізно.,It is never too late to learn.,Never be late.,-1.088381290435791
+762.0,"Зараз лише п'ята година ранку, але вже світло.","It's just five in the morning, but nevertheless it is light out.","It's only a few years old, but it's light.",-0.5262335538864136
+763.0,Він розповів мені історію свого життя.,He told me the story of his life.,He told me about his life.,0.37025314569473267
+764.0,"Навіть не знаю, чи створений я для цього світу.",I wonder if I am made for this world.,"I don't know, I'm made for this world.",0.10062286257743835
+765.0,Про що ви говорите!?,What are you talking about?,What are you talking about?,0.9062881469726562
+766.0,Я хочу цукерку.,I want a piece of candy.,I want sugar.,-1.0949597358703613
+767.0,Хочу цукерку.,I want a piece of candy.,I want sugar.,-1.0949597358703613
+768.0,"Я знав, що сьогодні буде весело.",I knew that today would be fun.,"I know, it'll be fun today.",0.6841113567352295
+769.0,"Я знала, що сьогодні буде весело.",I knew that today would be fun.,I knew it would be fun today.,0.7599495649337769
+770.0,"Це може здатися притягнутим за волосся, але це реальна проблема.","It might sound far-fetched, but this is a real problem.","It may seem like a haircut, but it's a real problem.",-0.5246933698654175
+771.0,Коли ми їмо? Я зголоднів!,When are we eating? I'm hungry!,I'm hungry!,-0.5811095237731934
+772.0,Коли ми будемо їсти? Я голодний!,When are we eating? I'm hungry!,Will we eat? I am hungry!,0.4031270742416382
+773.0,У мене завтра заняття.,I have class tomorrow.,I'll be in class tomorrow.,0.44734710454940796
+774.0,Не можу в це повірити!,I can't believe it!,I can't believe this!,0.8991011381149292
+775.0,"«Дякую», — «Нема за що».","""Thank you."" ""You're welcome.""",I'm not doing anything.,-1.1115572452545166
+776.0,"«Дякую», — «На здоров'я».","""Thank you."" ""You're welcome.""","I'm fine, I'm fine, I'm fine, I'm fine, I'm fine, I'm fine, I'm fine, I'm fine, I'm fine, I'm fine, I'm all right, I'm all right, I'm all right",-1.0967217683792114
+777.0,"""Дякую."" ""Будь ласка.""","""Thank you."" ""You're welcome.""","""I'll take care of it"". ""Listen to me"".",-0.512287437915802
+778.0,"""Дякую."" ""Прошу.""","""Thank you."" ""You're welcome.""","""I'll take care of it"".",-0.5952812433242798
+779.0,"""Дякую."" ""Дуже прошу.""","""Thank you."" ""You're welcome.""",I beg you.,-0.9484992027282715
+780.0,"""Спасибi."" ""Прошу.""","""Thank you."" ""You're welcome.""","""Spacy."" ""I'm going to die"".",-0.9587078094482422
+781.0,"""Дякую"". — ""Прошу"".","""Thank you."" ""You're welcome.""","""I'll take care of it"".",-0.5952812433242798
+782.0,"""Спасибі"". — ""Нема за що"".","""Thank you."" ""You're welcome.""","""I'm sorry"". ""I'm not going to do that"".",-0.8824291229248047
+783.0,"""Дякую"". — ""Нема за що"".","""Thank you."" ""You're welcome.""","""I'll take care of it"".",-0.5952812433242798
+784.0,"Як вимовляється ""pronounce""?","How do you pronounce ""pronounce""?",How do you pronounce it?,0.26528701186180115
+785.0,Зима — моя улюблена пора року.,Winter is my favorite season.,Winter is my favorite time of year.,0.7280479073524475
+786.0,"Факти вказують, що оптимальною тривалістю лекції є 30, а не 60 хвилин.",The data suggest that the optimum length of a lecture may be 30 instead of 60 minutes.,"In fact, the optimal duration of the lecture is 30 minutes, not 60 minutes.",-0.15238149464130402
+787.0,Я багато чому навчився від тебе.,I learned a lot from you.,I learned a lot from you.,0.9190597534179688
+788.0,Я багато чому від тебе навчився.,I learned a lot from you.,I learned a lot from you.,0.9190597534179688
+789.0,Я багато чому від вас навчився.,I learned a lot from you.,I learned a lot from you.,0.9190597534179688
+790.0,Я від тебе багато чому навчився.,I learned a lot from you.,I've learned a lot from you.,0.8536032438278198
+791.0,Я від вас багато чому навчився.,I learned a lot from you.,I've learned a lot from you.,0.8536032438278198
+792.0,Ми багато гуляли.,We walked a lot.,We walked a lot.,0.9355629682540894
+793.0,Я провів у потязі дванадцять годин.,I spent twelve hours on the train.,I spent twelve hours in the bathroom.,-0.6093857288360596
+794.0,Я дванадцять годин провів у потязі.,I spent twelve hours on the train.,I spent twelve hours in the bathroom.,-0.6093857288360596
+795.0,Я дванадцять годин провела у потязі.,I spent twelve hours on the train.,I spent twelve hours in the bathroom.,-0.6093857288360596
+796.0,Я провела у потязі дванадцять годин.,I spent twelve hours on the train.,I spent twelve hours in the car.,-0.2876148223876953
+797.0,Вона захворіла у ці вихідні.,She got sick this weekend.,She was sick this weekend.,0.7849471569061279
+798.0,"Зачекай, хтось стукає до мене у двері.","Hold on, someone is knocking at my door.","Wait, someone knocks on my door.",-0.4810229539871216
+799.0,Він багатий. Йому не потрібні гроші!,He's rich. He doesn't need money!,He's rich. You don't need money!,0.5615135431289673
+800.0,Він спить як немовля.,He's sleeping like a baby.,He sleeps like a baby.,0.6926354169845581
+801.0,Він спить як дитина.,He's sleeping like a baby.,He sleeps like a child.,0.6708341836929321
+802.0,"Він спить, як немовля.",He's sleeping like a baby.,He sleeps like a baby.,0.6926354169845581
+803.0,Він спить як дитя.,He's sleeping like a baby.,He sleeps like a child.,0.6708341836929321
+804.0,"Вони надто шумлять, я не можу сконцентруватися.",They're making too much noise. I can't concentrate.,"They're overwhelmed, I can't concentrate.",0.18068590760231018
+805.0,Хочу масаж. Мені треба розслабитися.,I want a massage. I need to relax.,I want to massage. I need to relax.,0.812413215637207
+806.0,Ти хворий. Тобі потрібно відпочити.,You're sick. You have to rest.,You need to rest.,-0.3945035934448242
+807.0,Ти хвора. Тобі потрібно відпочити.,You're sick. You have to rest.,You're sick. You need to rest.,0.7601790428161621
+808.0,Ви хвора. Вам потрібно відпочити.,You're sick. You have to rest.,You need to rest.,-0.3945035934448242
+809.0,Ви хворі. Вам потрібно відпочити.,You're sick. You have to rest.,You need to rest.,-0.3945035934448242
+810.0,Ви хворий. Вам потрібно відпочити.,You're sick. You have to rest.,You need to rest.,-0.3945035934448242
+811.0,Вона вимагає неможливого.,She's asking for the impossible.,She demands the impossible.,0.5119328498840332
+812.0,Вона просить про неможливе.,She's asking for the impossible.,She asked for help.,-0.8377017974853516
+813.0,Він зник без сліду.,He disappeared without a trace.,He's gone without a trace.,0.7114992141723633
+814.0,Він зник безслідно.,He disappeared without a trace.,He's a winner.,-1.0532448291778564
+815.0,Він безслідно зник.,He disappeared without a trace.,He's a wretch.,-1.1253435611724854
+816.0,"Я можу покласти долоні на підлогу, не згинаючи коліна.",I can place the palms of my hands on the floor without bending my knees.,"I can put the bottom on the floor, not the collar.",-0.7922464609146118
+817.0,Не може бути прогресу без спілкування.,There cannot be progress without communication.,There can be no progress without communication.,0.8696510791778564
+818.0,"Кожен хотів би вірити, що мрії можуть збутися.",Everyone would like to believe that dreams can come true.,"I wanted to be free, but they can be.",-1.0414421558380127
+819.0,Кращий спосіб реалізувати свої мрії - це прокинутися.,The best way to make your dreams come true is to wake up.,The best way to realize your dreams is to move on.,0.44785958528518677
+820.0,Світ не крутиться довкола тебе.,The world doesn't revolve around you.,Don't go around like that.,-1.0766210556030273
+821.0,Світ повний дурнів.,The world is full of fools.,I'm all right.,-1.118147373199463
+822.0,У світі повно дурнів.,The world is full of fools.,I'm at the mall.,-1.1536917686462402
+823.0,"Ви хочете сказати, що моє життя у небезпеці?",Are you saying my life is in danger?,You want to say that my life is in danger?,0.6558626890182495
+824.0,"У тебе є ідея щодо того, на що схоже моє життя?",Do you have any idea what my life is like?,Do you have any idea what my life is like?,0.8988058567047119
+825.0,"Ти хоч уявляєш собі, на що схоже моє життя?",Do you have any idea what my life is like?,"You're even thinking about yourself, what's my life like?",0.15238530933856964
+826.0,"Ви хоч уявляєте собі, на що схоже моє життя?",Do you have any idea what my life is like?,Do you want to be like me?,-0.7335147261619568
+827.0,В цьому місці панує таємнича атмосфера.,This place has a mysterious atmosphere.,There's a secret atmosphere in this place.,0.5125117897987366
+828.0,Це місце має таємничу атмосферу.,This place has a mysterious atmosphere.,This place has a secret atmosphere.,0.5281511545181274
+829.0,Я з нетерпінням очікую почути ваші думки щодо цієї теми.,I look forward to hearing your thoughts on this matter.,I can't wait to hear your thoughts on this topic.,0.3989252746105194
+830.0,"Ну й що, що я ґей? Це що, злочин?",So what if I am gay? Is it a crime?,"What, what, what, what, what, what, what?",-1.1902430057525635
+831.0,"Ну то й що, що я голубий? Це що, злочин?",So what if I am gay? Is it a crime?,"What am I, a criminal?",-0.9050867557525635
+832.0,Я не хочу потерпіти невдачу на іспитах.,I don't want to fail my exams.,I don't want to lose my education.,0.5897569060325623
+833.0,Я не хочу провалити екзамени.,I don't want to fail my exams.,I don't want to fail the exams.,0.671736478805542
+834.0,Моя мати купила дві пляшки апельсинового соку.,My mother bought two bottles of orange juice.,My mother bought two bottles of orange juice.,0.9238699674606323
+835.0,Вона була в чорному капелюсі.,She was wearing a black hat.,She was in a black hat.,0.43736332654953003
+836.0,На ній був чорний капелюх.,She was wearing a black hat.,There was a black hat.,-0.7082877159118652
+837.0,Ми зробили млинці на сніданок.,We made pancakes for breakfast.,We made a breakfast.,0.5992640256881714
+838.0,На сніданок ми зробили млинці.,We made pancakes for breakfast.,They made me a snack.,-0.6851335167884827
+839.0,"Я провів увесь день, спілкуючись із друзями.",I spent the whole afternoon chatting with friends.,I spent the whole day talking to my friends.,0.5012551546096802
+840.0,"Я провела весь день, спілкуючись із друзями.",I spent the whole afternoon chatting with friends.,I spent the whole day talking to my friends.,0.5012551546096802
+841.0,Я хочу бути більш незалежним.,I want to be more independent.,I want to be more independent.,0.921038806438446
+842.0,Я хочу бути більш незалежною.,I want to be more independent.,I want to be more independent.,0.921038806438446
+843.0,"Ти що, так весь день там і стоятимеш?",Are you just going to stand there all day?,"What, are you standing there all day?",0.328402042388916
+844.0,"Ви що, так весь день там і стоятимете?",Are you just going to stand there all day?,"What, is the whole day standing there?",-0.18386591970920563
+845.0,У кроликів довгі вуха та коротий хвіст.,A rabbit has long ears and a short tail.,The crows are long and crowned.,-1.1848080158233643
+846.0,Твій секрет буде зі мною у безпеці.,Your secret will be safe with me.,Your secret will be with me.,-0.14751671254634857
+847.0,Я нікому не розкрию твого секрету.,Your secret will be safe with me.,I don't reveal your secret to anyone.,-0.48901259899139404
+848.0,Ваш секрет буде зі мною у безпеці.,Your secret will be safe with me.,Your secret will be with me.,-0.14751671254634857
+849.0,Я нікому не розкрию вашого секрету.,Your secret will be safe with me.,I don't want to reveal your secret.,-0.2920200228691101
+850.0,Я не хочу більше чути жодних скарг.,I don't want to hear any more of your complaining.,I dont want to hear more complaints.,0.00029796361923217773
+851.0,Математика - це не лише запам'ятовування формул.,Mathematics is not just the memorization of formulas.,Mathematics is not just a form of mathematics.,-0.13985870778560638
+852.0,Я не хотів справити на тебе таке враження.,I didn't mean to give you that impression.,I didn't want to make such a fuss about you.,-0.6178655624389648
+853.0,Я не хотів справити на вас таке враження.,I didn't mean to give you that impression.,I didn't want to make such a fuss about you.,-0.6178655624389648
+854.0,Я втомився від фаст-фуду.,I'm tired of eating fast food.,I was in fast food.,-0.045109838247299194
+855.0,Я втомилася від фаст-фуду.,I'm tired of eating fast food.,I was tired of fast food.,0.6385308504104614
+856.0,Я втомилася їсти фаст-фуд.,I'm tired of eating fast food.,I was tired of fast food.,0.6385308504104614
+857.0,Я втомився їсти фаст-фуд.,I'm tired of eating fast food.,I ate fast food.,-0.31563133001327515
+858.0,Суть математики - свобода.,The essence of mathematics is liberty.,Mathematics is freedom.,-0.2715423107147217
+859.0,Де туалет?,Where is the bathroom?,The toilet?,-0.858789324760437
+860.0,Де прибиральня?,Where is the bathroom?,The cleaning?,-1.0878888368606567
+861.0,Де знаходиться туалет?,Where is the bathroom?,Where's the toilet?,0.3796042799949646
+862.0,Сутність свободи — у математиці.,The essence of liberty is mathematics.,The freedom of mathematics.,-0.5473172068595886
+863.0,"Те, що він розповів, було занадто смішним, щоб йому хтось повірив.",His story was too ridiculous for anyone to believe.,"They, what he told, was too smashed, so that he could be someone else.",-0.8689582347869873
+864.0,Скільки годин сну тобі потрібно?,How many hours of sleep do you need?,How much do you need?,-0.7774217128753662
+865.0,Скільки годин сну вам потрібно?,How many hours of sleep do you need?,How much do you need?,-0.7774217128753662
+866.0,Скільки тобі потрібно годин сну?,How many hours of sleep do you need?,How much do you need?,-0.7774217128753662
+867.0,Скільки вам потрібно годин сну?,How many hours of sleep do you need?,How much do you need?,-0.7774217128753662
+868.0,Кожна людина - це окремий світ.,Each person is a world.,Every man is a stranger.,-0.007259488105773926
+869.0,"Як ти думаєш, люди колись колонізують Місяць?",Do you think mankind will someday colonize the Moon?,How do you think people colonize the moon?,0.038358643651008606
+870.0,Життя у в'язниці є гіршим за життя тварини.,Life in prison is worse than the life of an animal.,Life in prison is a beast of life.,-0.41042619943618774
+871.0,"Я пишаюся тим, що я - частина цього проекту.",I am proud to be a part of this project.,"I'm writing this, that I'm part of this project.",-0.12055157124996185
+872.0,Чому ми не можемо самі себе полоскотати?,Why can't we tickle ourselves?,Why can't we just throw ourselves away?,-0.23977790772914886
+873.0,У тебе вже є борода?,Have you got a beard already?,Are you already bored?,-0.9982860088348389
+874.0,"Я відчуваю, що я вільний.",I feel that I am free.,I feel what I am.,-0.40625667572021484
+875.0,Я хочу MP3-плеєр!,I want an MP3 player!,I want MP3-player!,0.7643674612045288
+876.0,"Їдячи піцу, він набридав своїй сестрі.",While eating a pizza he was annoying his sister.,"He's eating pizza, he's eating his sister.",0.3376834988594055
+877.0,Що?! Ти з'їв мого шоколадного ведмедя?!,What?! You ate my chocolate bear?!,What?! Did you eat my chocolate bear?!,0.8068864345550537
+878.0,Що?! Ти з'їв мого шоколадного ведмедика?!,What?! You ate my chocolate bear?!,What?! Did you eat my chocolate bear?!,0.8068864345550537
+879.0,Що?! Ти з'їла мого шоколадного ведмедика?!,What?! You ate my chocolate bear?!,What?! You took my chocolate bear?!,0.13173331320285797
+880.0,Де ти?,Where are you?,Where are you?,0.9117558002471924
+881.0,Де ви?,Where are you?,Where are you from?,0.5964900255203247
+882.0,Ти де?,Where are you?,You?,-0.8425102233886719
+883.0,Ви де?,Where are you?,Do you?,-0.8124517202377319
+884.0,Він нещодавно опублікував низку цікавих статей.,He has just published an interesting series of articles.,He recently published a number of interesting articles.,0.6742540597915649
+885.0,Ти мене бісиш!,You piss me off!,You are crazy!,-0.9053789377212524
+886.0,Неможливо!,No way!,Nemo is nice!,-1.193244218826294
+887.0,Це неможливо!,No way!,It is impossible!,0.10312378406524658
+888.0,Ні в якому разі!,No way!,"No, not at all!",-0.3954979181289673
+889.0,В жодному разі!,No way!,In the middle!,-1.0292253494262695
+890.0,Ніколи!,No way!,"No, not at all!",-0.3954979181289673
+891.0,Дзуськи!,No way!,Dzuśki!,-1.321587085723877
+892.0,Цього не може бути!,No way!,This can't be!,0.04196814447641373
+893.0,Не може бути!,No way!,It can't be!,-0.2172338217496872
+894.0,Це глухий кут.,It's a dead end.,This is a stupid corner.,-0.7285184860229492
+895.0,Я не завжди довіряю перекладам.,I don't necessarily trust translations.,I don't always translate.,-0.02814553678035736
+896.0,"Позавчора ти вразив усіх, але я вже знав тебе.","The day before yesterday you impressed everyone, but I already knew you.","You were all enemies yesterday, but I already know you.",-0.5857366323471069
+897.0,"Життя не довге, воно широке!","Life is not long, it is wide!","Life is not long, it's wide!",0.8000749945640564
+898.0,"Коли я був у твоєму віці, Плутон був планетою.","When I was your age, Pluto was a planet.","When I was your age, Pluto was a planet.",0.9129413366317749
+899.0,Вона на межі нервового зриву.,She is on the verge of a nervous breakdown.,She's on the edge of nervousness.,0.04059001803398132
+900.0,"Слони - найбільші наземні тварини, що існують у наші дні.",Elephants are the largest land animals alive today.,The biggest animals on earth exist in our days.,-0.024425864219665527
+901.0,Фрукти та овочі важливі для збалансованого харчування.,Fruits and vegetables are essential to a balanced diet.,Fruits and vegetables are important for balanced eating.,0.6575021743774414
+902.0,"Сир - це тверда їжа, яку роблять із коров'ячого, козячого, овечого молока й молока інших ссавців.","Cheese is a solid food made from the milk of cows, goats, sheep, and other mammals.","Sir - it's hard food, you make it from cow's milk, cow's milk and other dairy products.",-0.7021447420120239
+903.0,"Мені, як і раніше, не подобаються ці Кавал’єрі, Тонеллі та Фубіні... і взавтра у мене знов усний іспит з матаналізу.","I still don't like Cavalieri, Tonelli, or Fubini... and my oral calculus exam is already tomorrow.",I don't like this Kavalli and Fubini... and tomorrow I'll have a test with you.,-0.5915969014167786
+904.0,Я зазвичай приймаю душ ввечері.,I usually take a shower in the evening.,I usually take in the shower.,-0.03872288763523102
+905.0,"Він провів вечір, читаючи книжку.",He spent the evening reading a book.,He spent the night reading a book.,0.9031417369842529
+906.0,"Ти думаєш про це питання увесь ранок. Зроби перерву, поїж.",You have been thinking about this problem the whole morning. Take a break; go eat lunch.,"You think about this whole thing, you're gonna run, you're gonna run.",-1.058414340019226
+907.0,"Якщо я не зроблю цього зараз, то не зроблю ніколи.","If I don't do it now, I never will.","If I don't do this now, I'll never do it.",0.8446465730667114
+908.0,Добраніч! Приємних снів!,Good night. Sweet dreams.,Good! Good!,-0.9942096471786499
+909.0,Усі заслуговують на другий шанс.,Everyone deserves a second chance.,I deserve another chance.,-0.37111711502075195
+910.0,У чому перевага цієї технологіі?,What is the advantage of this technology?,Why is this technology so important?,0.5656106472015381
+911.0,"Якщо в вас немає цієї програми, то її можна зараз стягнути.","If you do not have this program, you can download it now.","If you don't have this program, you can download it.",0.6975796222686768
+912.0,"Якщо у вас немає цієї програми, ви можете завантажити її зараз.","If you do not have this program, you can download it now.","If you don't have this program, you can download it.",0.6975796222686768
+913.0,Ґонсалес дарує велосипед усім своїм робітникам у Європі.,Gonzales offers a bike to all his employees in Europe.,Gonsales gives his bicycle to all his fellow Europeans.,-0.14400525391101837
+914.0,"Є тисяча фільмів, які треба подивитися перед тим, як померти.",There are 1000 movies that one must watch before dying.,A thousand movies that should be seen in front of a team like that.,-0.48927944898605347
+915.0,"Є тисяча фільмів, які треба подивитися перед смертю.",There are 1000 movies that one must watch before dying.,A thousand movies that should be made before death.,0.273641973733902
+916.0,В мене закінчуються ідеї.,I'm running out of ideas.,I'm out of ideas.,0.4317260980606079
+917.0,Не забувай про нас.,Don't forget about us!,Don't forget about us.,0.7826566696166992
+918.0,Не забудь про нас.,Don't forget about us!,Don't forget about us.,0.7826566696166992
+919.0,Час минув дуже швидко.,Time has passed very fast.,It's too late.,-1.0142756700515747
+920.0,"Відчини шафу зліва, там пляшки.","Open the cupboard to the left, the bottles are in there.","Turn the hat on, there's a bottle.",-0.9565949440002441
+921.0,Маєш професійний досвід?,Do you have professional experience?,Do you have professional experience?,0.9149694442749023
+922.0,У вас є професійний досвід?,Do you have professional experience?,Do you have any professional experience?,0.7258998155593872
+923.0,Скільки чайових зазвичай залишають у Іспанії?,How much do you leave for a tip in Spain?,How many teaspoons do they usually leave in the country?,-0.8483815789222717
+924.0,Хто написав цю картину?,Who painted this painting?,Who wrote this picture?,-0.43271946907043457
+925.0,Хто намалював цю картину?,Who painted this painting?,Who painted this picture?,0.5568921566009521
+926.0,Він аргентинець і він дає уроки тенісу.,He's Argentinean and he gives tennis lessons.,He teaches you arithmetic and he teaches you tennis.,-0.7671604156494141
+927.0,Кран тече.,The tap is running.,The cran is running.,-0.6402524709701538
+928.0,Я на четвертому місяці вагітності.,I am four months pregnant.,I'm pregnant for the fourth month.,0.6225809454917908
+929.0,Чи можна платити кредитною карткою?,Can I pay by credit card?,Can I pay by credit card?,0.9272661209106445
+930.0,Можна заплатити кредитною карткою?,Can I pay by credit card?,Can I pay with a credit card?,0.7079818844795227
+931.0,Я годую свого кота кожного ранку та кожного вечора.,I feed my cat every morning and every evening.,I feed my cat every morning and every night.,0.8950982689857483
+932.0,"Чи не могли б ви це повторити, будь ласка?",Could you please repeat that?,"Couldn't you repeat that, please?",0.5155044198036194
+933.0,Можете повторити?,Could you please repeat that?,Can you repeat?,0.22461922466754913
+934.0,"Ви не могли би це повторити, будь ласка?",Could you please repeat that?,"Couldn't you repeat that, please?",0.5155044198036194
+935.0,"Це ж очевидно, що тобі дешевше обійдеться заночувати в нас.",It would of course be cheaper for you to sleep at our place.,"Obviously, it's cheaper to spend time with us.",0.00648026168346405
+936.0,Це коштує цілий стан.,It costs an arm and a leg.,This is a costly station.,-1.0548542737960815
+937.0,Він коштує цілий стан.,It costs an arm and a leg.,He's got a lot of money.,-0.93174147605896
+938.0,Вона коштує цілий стан.,It costs an arm and a leg.,She's costing me a lot of money.,-0.9212024211883545
+939.0,Воно коштує цілий стан.,It costs an arm and a leg.,It costs a lot of money.,-0.4357508420944214
+940.0,Мені потрібна твоя порада.,I need your advice.,I need your advice.,0.909870982170105
+941.0,Мені потрібна ваша порада.,I need your advice.,I need your advice.,0.909870982170105
+942.0,"Ти часом не знаєш, куди я поклав ключі?",Any chance you know where I put my keys?,You don't know when I put the keys?,0.3610270619392395
+943.0,"Ви часом не знаєте, куди я поклав свої ключі?",Any chance you know where I put my keys?,You don't know when I put my keys in?,0.45371735095977783
+944.0,Готуюся до найгіршого.,I'm getting ready for the worst.,I'm ready to go.,-0.5712389945983887
+945.0,Я готуюся до найгіршого.,I'm getting ready for the worst.,I'm going to the worst.,0.5112941861152649
+946.0,Піклуйся про себе.,Take good care of yourself.,Wrap yourself up.,-1.157920479774475
+947.0,Бережи себе.,Take good care of yourself.,Take care of yourself.,0.15571972727775574
+948.0,Бережіть себе.,Take good care of yourself.,Beware of yourself.,-1.1151115894317627
+949.0,Піклуйтеся про себе.,Take good care of yourself.,Be careful about yourself.,0.26901817321777344
+950.0,Функції синус та косинус приймають значення від -1 до 1 включно.,The functions sine and cosine take values between -1 and 1 (-1 and 1 included).,The function of the sinus receives the meaning of -1 to 1 inclusive.,-0.5179411768913269
+951.0,Функції синуса та косинуса можуть приймати значення від -1 до +1 включно.,The functions sine and cosine take values between -1 and 1 (-1 and 1 included).,The sine function and the sine function can take the value from -1 to inclusive.,0.20814082026481628
+952.0,"Наукова теорія, яка мені подобається найбільше, полягає у тому, що кільця Сатурна повністю складаються із загубленого багажу.",The scientific theory I like the best is that the rings of Saturn are composed entirely of lost luggage.,"Science, which I like the most, is that Saturn's key is all lost.",-0.6515300273895264
+953.0,"Для людини, у якої є тільки молоток в ящику з інструментами, будь-яка проблема схожа на цвях.","To the man who only has a hammer in the toolkit, every problem looks like a nail.","For a human being, who only has milk in his pocket, any problem is similar to that.",-0.7168751358985901
+954.0,"Я не розумію, чому людей лякають нові ідеї. Мене лякають старі.",I can't understand why people are frightened of new ideas. I'm frightened of the old ones.,I don't understand why people are afraid of new ideas.,0.11378750205039978
+955.0,У тебе з собою є ручка?,Do you have a pen on you?,Do you have a hand?,-0.4311227798461914
+956.0,У вас з собою є ручка?,Do you have a pen on you?,Do you have a hand?,-0.4311227798461914
+957.0,Чиє це?,Whose is this?,Who is this?,0.001721605658531189
+958.0,Це добрі умови.,It's a good deal.,These are good conditions.,0.26113462448120117
+959.0,Збирай свої речі та йди геть,Pick up your things and go away.,Pick up your stuff and go.,0.3471585810184479
+960.0,"Гарно сміється той, хто сміється останній.",He laughs best who laughs last.,Whoever laughs last laughs.,-0.4076237678527832
+961.0,"Добре сміється той, хто сміється останнім.",He laughs best who laughs last.,"Good laugh, whoever laughs last.",-0.004164144396781921
+962.0,"Чим швидше, тим краще.","The sooner, the better.","As soon as possible, better.",0.46273893117904663
+963.0,Він не виглядає на свій вік.,He doesn't look his age.,He doesn't look like his own.,0.08047907054424286
+964.0,Ти любиш реп?,Do you like rap?,Do you like rap?,0.9004983901977539
+965.0,Ви любите реп?,Do you like rap?,Do you like rap?,0.9004983901977539
+966.0,Тобі подобається реп?,Do you like rap?,Do you like rap?,0.9004983901977539
+967.0,Вам подобається реп?,Do you like rap?,Do you like rap?,0.9004983901977539
+968.0,Я люблю поїздки.,I love trips.,I like to travel.,0.13846176862716675
+969.0,Такого я від тебе дійсно не чекав.,I really wasn't expecting that from you.,I really didn't expect that.,0.49922657012939453
+970.0,Я такого від тебе дійсно не очікував.,I really wasn't expecting that from you.,I really didn't expect that from you.,0.7615064382553101
+971.0,Я такого від тебе дійсно не очікувала.,I really wasn't expecting that from you.,I didn't expect that from you.,0.7001711130142212
+972.0,Я такого від вас дійсно не очікував.,I really wasn't expecting that from you.,I really didn't expect that from you.,0.7615064382553101
+973.0,Я такого від вас дійсно не очікувала.,I really wasn't expecting that from you.,I didn't expect that from you.,0.7001711130142212
+974.0,Я чекав кілька годин.,I've been waiting for hours.,I waited a few hours.,0.4407065510749817
+975.0,Я чекаю вже кілька годин.,I've been waiting for hours.,I've been waiting for a few hours.,0.6738885641098022
+976.0,Він помер у глибокій старості.,He died at a very old age.,He died in a deep old age.,0.7309938073158264
+977.0,Він помер у дуже похилому віці.,He died at a very old age.,He died very old.,0.4904543161392212
+978.0,Я його не знаю.,I don't know him.,I don't know him.,0.9155880212783813
+979.0,Мені сподобався цей фільм.,I liked this film.,I enjoyed this movie.,0.9135538339614868
+980.0,Цей фільм мені сподобався.,I liked this film.,This movie was a joke.,-0.6899688243865967
+981.0,Вона купається в грошах.,She's rolling in money.,She's swimming in the rain.,-1.0180987119674683
+982.0,Це не важливо.,It's not important.,It's not important.,0.921800971031189
+983.0,Не важливо.,It's not important.,It's not important.,0.921800971031189
+984.0,Це неістотно.,It's not important.,It's not true.,-0.07687216997146606
+985.0,Це неважливо.,It's not important.,It's not important.,0.921800971031189
+986.0,Мені байдуже.,I don't care.,I'm tired of it.,-0.9962034225463867
+987.0,Мені все одно.,I don't care.,It's all the same to me.,-1.0100514888763428
+988.0,Мені пофіг.,I don't care.,I'm tired of it.,-0.9962034225463867
+989.0,Мені цілком однаково.,I don't care.,I'm totally fine.,-0.9302701950073242
+990.0,Мені однаково.,I don't care.,I'm sorry.,-0.9503219127655029
+991.0,"Люди мають зрозуміти, що світ міняється.",People should understand that the world is changing.,People understand that the world is changing.,0.6724210977554321
+992.0,"Слово - срібло, мовчання - золото.","Speech is silver, but silence is golden.","Sriblo, silk, and gold.",-1.1980819702148438
+993.0,П'ятдесят два відсотки британських жінок надають перевагу шоколаду перед сексом.,Fifty-two per cent of British women prefer chocolate to sex.,Fifty-two percent of British women prefer chocolate to sex.,0.8922437429428101
+994.0,Я геть не переконаний.,I'm not convinced at all.,I'm not convinced.,0.4788719415664673
+995.0,Чому ти хочеш поїхати сьогодні?,Why do you want to leave today?,Why do you want to go today?,0.8579441905021667
+996.0,Чому ви хочете поїхати сьогодні?,Why do you want to leave today?,Why do you want to go today?,0.8579441905021667
+997.0,Я візьму машину.,I'm going to take my car.,I'll take the car.,0.4976186752319336
+998.0,"Це занадто добре, щоб бути правдою.",It's too good to be true.,It's too good to be true.,0.9158915281295776
+999.0,"Краще пізно, ніж ніколи.",Better late than never.,Better late than never.,0.9118989706039429
+,Total Score,,,-13.852178819477558
+,Mean Score,,,-0.013852178819477558

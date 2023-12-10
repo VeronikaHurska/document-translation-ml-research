@@ -20,10 +20,10 @@ def compute_bleurt(hypotheses, references):
     print(results)
     return results
 
-df = pd.read_csv('translations/nvidia/nvidia_de_en_result.csv')
+df = pd.read_csv('translations/t5/t5_en_de_result.csv')
 df = df.head(1000)
 
-bleurt_scores = compute_bleurt(df['TRANSLATION'], df['EN'])
+bleurt_scores = compute_bleurt(df['TRANSLATION'], df['DE'])
 
 df['BLEURT_Score'] = bleurt_scores
 
@@ -36,5 +36,5 @@ summary_df = pd.DataFrame({'UK': ['Total Score', 'Mean Score'],
 
 final_df = pd.concat([df, summary_df], ignore_index=True)
 
-final_df.to_csv('bleurt_de_en_nvidia.csv', index=False)
+final_df.to_csv('bleurt_en_de_t5.csv', index=False)
 
