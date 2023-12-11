@@ -10,17 +10,17 @@ def clean_text(text):
 
 def compute_bleu_per_row(row):
     hypothesis = word_tokenize(clean_text(row['TRANSLATION']).lower())
-    reference = word_tokenize(clean_text(row['DE']).lower())
+    reference = word_tokenize(clean_text(row['EN']).lower())
 
     result = sentence_bleu([reference], hypothesis)
     print(result)
     return result
 
-df = pd.read_csv('translations/t5/t5_en_de_result.csv')
+df = pd.read_csv('translations/facebook/facebook_de_en_result.csv')
 
 df['BLEU_Score'] = df.apply(compute_bleu_per_row, axis=1)
 
 
 df['avg'] = df['BLEU_Score'].mean()
 
-df.to_csv('bleu_en_de_t5.csv', index=False)
+df.to_csv('bleu_de_en_facebook.csv', index=False)
