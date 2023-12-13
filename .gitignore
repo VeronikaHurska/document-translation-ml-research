@@ -1,3 +1,5 @@
 /test.doc
 /venv
 /bleurt
+train_datasets/uk_en_train_preprocessed.csv
+train_datasets/uk_en_train.zip
