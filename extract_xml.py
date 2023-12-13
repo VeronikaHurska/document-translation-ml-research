@@ -13,3 +13,4 @@ def get_xml_from_docx(docx_filename):
 xml_content = get_xml_from_docx('test.doc')
 tree = ET.fromstring(xml_content)
 print(ET.tostring(tree, encoding='unicode'))
+# https://www.kaggle.com/datasets/shaz13/real-world-documents-collections
